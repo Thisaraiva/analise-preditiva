@@ -6,6 +6,10 @@ Análise do desempenho de estudantes em instituições de ensino superior, com f
 - Analisar a eficácia dos instrutores
 - Descobrir padrões geográficos no desempenho acadêmico
 
+## Dados Gerados
+
+
+
 ## 1. Consultas Executadas
 
 ### Query (a): Alunos de SC com Instrutor de Curso Diferente e Nota > 70
@@ -56,8 +60,6 @@ GROUP BY e.nome, i.instrutorID;
 - Melhor média: **Melissa Marques** com 99.31 pelo instrutor 133
 - Pior média: **Ana Julia Caldeira** com 50.93 pelo instrutor 134
 - Média geral em Joinville: **76.08** (ver Query C)
-
-**Dados Completos:** [Ver tabela completa no anexo](#) *(os dados completos foram omitidos por brevidade)*
 
 ---
 
@@ -110,8 +112,8 @@ GROUP BY i.curso, e.curso;
 | Combinação | Média | Destaque |
 |------------|-------|----------|
 | Biologia (Instrutor) → Medicina (Estudante) | 81.85 | **Melhor combinação** |
-| Matemática (Instrutor) → Administração (Estudante) | 71.81 | Pior combinação |
-| Economia (Instrutor) → Engenharia (Estudante) | 78.38 | Boa sinergia |
+| Matemática (Instrutor) → Administração (Estudante) | 71.81 | **Pior combinação** |
+| Economia (Instrutor) → Engenharia (Estudante) | 78.38 | **Boa sinergia** |
 
 **Análise Completa:**
 | Curso Instrutor | Curso Estudante | Média |
@@ -261,51 +263,85 @@ graph LR
 
 ---
 
-## 3. Conclusões
+## Fluxo do Pipeline (Simulado):
 
-1. **Desempenho por Região**:
-   - Joinville apresenta média de 76.08, acima da geral (75.90)
-   - Florianópolis tem maior variação de desempenho
+### Extração (Simulada):
 
-2. **Eficácia dos Instrutores**:
-   - 15% dos instrutores têm média acima de 80
-   - Necessidade de capacitação para instrutores com média abaixo de 70   
+* Os dados brutos, neste caso, seriam conceitualmente extraídos de diversas fontes (e.g., sistemas de  registro acadêmico, planilhas, etc.). Para fins de demonstração, simulamos a existência de arquivos .csv na pasta raw:
+    * data_lake/raw/estudantes.csv: Conteria informações detalhadas dos estudantes.
+    * data_lake/raw/notas.csv: Conteria o histórico de notas dos estudantes em diferentes aulas.
 
-3. **Combinações Efetivas**:
-   - Instrutores de Biologia obtêm melhores resultados com estudantes de Medicina
-   - A combinação Matemática-Administração precisa de revisão
+### Transformação (Simulada):
 
+* Nesta etapa, os dados brutos seriam processados e transformados para atender às necessidades de análise. As seguintes transformações seriam aplicadas (simuladamente):
+    * Leitura dos dados brutos dos arquivos .csv usando bibliotecas como pandas.
+    * Junção dos dados de estudantes e notas para criar uma visão unificada.
+    * Cálculo da média de notas por aluno.
+    * Categorização dos alunos em "Aprovado" ou "Reprovado" com base em um limiar de nota (e.g., média > 70).
+    * Outras transformações relevantes para as análises (e.g., normalização de nomes de instituições, criação de novas features).
 
-4. **Próximas Ações**:
-   ```mermaid
-   graph TD
-       A[Analisar UFSC Joinville] --> B[Entrevistar instrutores]
-       A --> C[Verificar metodologia]
-       D[Otimizar combinações] --> E[Treinar instrutores em pedagogia]
-       D --> F[Revisar grade curricular]
-   ```
-   - Cruzar dados com questionários de satisfação
-   - Implementar modelo preditivo para identificar alunos em risco
-   - Expandir análise para outras cidades
+### Carga (Simulada):
 
----
+* Os dados transformados seriam então carregados em um formato adequado para análise. Neste exemplo, os dados pré-processados são salvos em um arquivo .csv na pasta processed:
+    * data_lake/processed/estudantes_processados.csv: Conteria os dados dos estudantes com a média de notas calculada e o status de aprovação.
+* Em um cenário real, esses dados pré-processados poderiam ser carregados em um banco de dados otimizado para análise (Data Warehouse) ou em outras ferramentas de visualização e análise.
 
-## Conclusões e Ações
+## 3. Inserção de Dados e Conceituação de ETL
 
-### ✅ Pontos Fortes
-- Excelente desempenho em Joinville/PR
-- Boa sinergia Biologia-Medicina (81.85)
-- Instrutor 122 como benchmark (86.41)
+**a) Processo de Geração de Dados Sintéticos:**
 
-### ⚠️ Áreas de Melhoria
-1. UFSC Joinville (investigar metodologia)
-2. Combinação Matemática-Administração
-3. Capacitação para instrutores abaixo de 70
+Os dados para este projeto foram gerados sinteticamente utilizando a biblioteca `Faker` para dados de nomes e a biblioteca `random` para escolhas aleatórias e valores numéricos. O processo detalhado de geração para cada tabela (Estudante, Instrutor, Aula, Aulas_assistidas) foi apresentado na resposta da questão 3 da tarefa anterior. Em resumo, scripts Python foram utilizados para criar amostras de dados com características relevantes para o domínio do problema, como nomes de estudantes e instrutores, cursos, instituições de ensino, cidades, estados e notas de aulas assistidas.
 
-### 🚀 Próximos Passos
-1. Implementar sistema de recomendação de pares aluno-instrutor
-2. Desenvolver dashboard de monitoramento
-3. Estudo qualitativo com os instrutores top 10%
+**b) Demonstração das Operações ETL (Extraction, Transformation e Load):**
+
+A resolução da inserção de dados no banco de dados SQL Server, conforme implementado com o script `gerar_dados.py`, demonstra claramente as operações de ETL:
+
+* **Extraction (Extração):**
+    Os dados foram "extraídos" da lógica de geração implementada no script Python. As listas de dicionários (`estudantes`, `instrutores`, `aulas`, `aulas_assistidas`) representam os dados extraídos da fonte (o próprio script de geração).
+
+* **Transformation (Transformação):**
+    Os dados extraídos passaram por um processo de "transformação" para serem adequados ao carregamento no banco de dados relacional:
+    * **Conversão para DataFrames:** As listas de dicionários foram transformadas em objetos `pandas.DataFrame`. Esta é uma etapa crucial de estruturação dos dados em um formato tabular, facilitando a manipulação e o carregamento.
+    * **Inferência e Conversão de Tipos:** O `pandas` inferiu os tipos de dados para cada coluna do DataFrame. Além disso, para garantir a compatibilidade com os tipos de dados definidos no schema do banco de dados SQL Server, foram realizadas conversões explícitas de tipos utilizando o método `astype()` do `pandas` (e também a especificação de tipos do SQLAlchemy). Esta etapa de transformação garante que os dados sejam carregados no formato correto esperado pelo banco de dados.
+
+* **Load (Carregamento):**
+    A etapa de "carregamento" envolveu a inserção dos DataFrames transformados nas tabelas correspondentes do banco de dados SQL Server (`Estudante`, `Instrutor`, `Aula`, `Aulas_assistidas`). Isso foi realizado utilizando a função `to_sql()` do `pandas`, que se conecta ao banco de dados através da `engine` do SQLAlchemy e executa comandos SQL `INSERT` para popular as tabelas com os dados gerados e transformados.
+
+Portanto, o processo de geração de dados sintéticos e sua subsequente inserção no banco de dados exemplifica o fluxo de ETL: os dados são **extraídos** da lógica de geração, **transformados** em estruturas tabulares (`DataFrames`) com tipos de dados adequados, e finalmente **carregados** no sistema de destino (o banco de dados SQL Server) para análise.
+
+## 4. Conclusões
+
+* **Desempenho por Região**:
+    * Joinville apresenta uma média de notas (76.87) ligeiramente superior à média geral (76.08), indicando um desempenho acadêmico um pouco melhor nessa cidade.
+    * Florianópolis demonstra uma variação maior no desempenho entre as instituições, com a PUCPR apresentando uma média mais alta em comparação com a UFSC.
+* **Eficácia dos Instrutores**:
+    * A análise da média de notas por instrutor revelou uma variação significativa na eficácia. O instrutor com ID 102 obteve a melhor média (84.32), enquanto o instrutor com ID 143 teve a pior (66.38).
+    * Uma análise mais aprofundada poderia investigar as metodologias de ensino e a experiência dos instrutores com desempenhos contrastantes. A identificação de características dos instrutores de alto desempenho pode informar iniciativas de desenvolvimento profissional.
+* **Combinações Efetivas**:
+    * A análise "Drill Down" por curso do instrutor e curso do estudante sugeriu algumas combinações com maior sinergia. Instrutores de Biologia obtiveram os melhores resultados com estudantes de Medicina (média de 81.85), indicando uma possível complementaridade entre essas áreas.
+    * Por outro lado, a combinação de instrutores de Matemática com estudantes de Administração apresentou a menor média (71.81), sugerindo a necessidade de revisar a abordagem pedagógica ou a adequação dessa combinação.
+* **Padrões Geográficos**:
+    * A análise com `ROLLUP` nas dimensões geográficas revelou que o estado do Paraná (média de 76.28) apresenta um desempenho ligeiramente superior a Santa Catarina (média de 75.70).
+    * Em nível de cidade, Joinville (PR) e Florianópolis (PR) apresentaram médias mais altas. A média relativamente baixa da UFSC em Joinville (67.93) é um ponto de atenção que requer investigação adicional. Fatores como infraestrutura, corpo docente específico dessa unidade ou características dos alunos podem influenciar esse resultado.
+
+## 5. Próximas Ações
+
+```mermaid
+graph TD
+    A[Analisar Desempenho UFSC Joinville] --> B(Entrevistar Instrutores e Alunos UFSC Joinville);
+    A --> C(Verificar Metodologia de Ensino UFSC Joinville);
+    D[Otimizar Combinações Instrutor-Curso] --> E(Implementar Workshops para Instrutores);
+    D --> F(Revisar Grade Curricular e Alinhamento de Conteúdo);
+    G[Expandir Análise] --> H(Incluir Dados de Questionários de Satisfação);
+    G --> I(Implementar Modelo Preditivo de Desempenho);
+    G --> J(Analisar Desempenho em Outras Cidades e Instituições);
+```
+
+* **Investigação Detalhada da UFSC em Joinville:** É crucial entender os motivos por trás do desempenho relativamente inferior da UFSC em Joinville em comparação com outras instituições e cidades. Isso pode envolver entrevistas com instrutores e alunos, análise das metodologias de ensino e avaliação, e verificação da infraestrutura disponível.
+* **Otimização das Combinações Instrutor-Curso:** Com base nos insights da Query (e), ações podem ser tomadas para fortalecer combinações eficazes e revisar aquelas com baixo desempenho. Isso pode incluir o desenvolvimento de materiais de apoio específicos ou a reconsideração da alocação de instrutores.
+* **Expansão da Análise:** As próximas etapas devem incluir a integração de outras fontes de dados, como questionários de satisfação dos alunos e dados demográficos, para obter uma visão mais completa do desempenho acadêmico. A implementação de modelos preditivos pode ajudar a identificar alunos em risco e permitir intervenções proativas. Além disso, a análise deve ser expandida para incluir outras cidades e instituições no conjunto de dados.
+
+Este relatório fornece uma análise inicial do desempenho acadêmico com base nos dados gerados. As conclusões destacam áreas de sucesso e pontos que necessitam de maior investigação e ação para melhorar o desempenho geral dos estudantes.
 
 
 **Relatório gerado em:** `04/2024`  
