@@ -1,0 +1,16 @@
+{
+    "metricas_principais": {
+        "media_geral": 76.29,
+        "melhor_instrutor": {
+            "id": 122,
+            "media": 86.41
+        },
+        "cidade_melhor_desempenho": "Joinville/PR (78.75)"
+    },
+    "estatisticas_cursos": {
+        "Administração": 77.1,
+        "Direito": 76.52,
+        "Engenharia": 77.05,
+        "Medicina": 74.77
+    }
+}

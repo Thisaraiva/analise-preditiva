@@ -1,0 +1,501 @@
+estudanteID,nome,curso
+1,Francisco Barros,Administração
+2,Luana da Paz,Engenharia
+3,Marcelo Castro,Direito
+4,José Pedro Garcia,Medicina
+5,Sr. Ravi Sampaio,Medicina
+6,Luna Correia,Administração
+7,Sra. Liz Cassiano,Direito
+8,Ravy da Cruz,Direito
+9,Dra. Natália da Cunha,Direito
+10,Ana Clara Aparecida,Administração
+11,Diego Rios,Medicina
+12,Luan Casa Grande,Direito
+13,Clara Nogueira,Administração
+14,Maria Júlia Rocha,Direito
+15,Allana da Costa,Engenharia
+16,Theodoro Machado,Direito
+17,Paulo Gonçalves,Engenharia
+18,Larissa Garcia,Administração
+19,João Miguel Moraes,Administração
+20,Dante Cardoso,Medicina
+21,Fernando Silva,Medicina
+22,Lorena Pastor,Engenharia
+23,Ana Luiza Viana,Engenharia
+24,Mathias Barbosa,Medicina
+25,João Guilherme Silveira,Medicina
+26,Sra. Luísa Moraes,Engenharia
+27,Fernanda Correia,Direito
+28,Sr. Danilo Alves,Administração
+29,Ana Laura Moreira,Administração
+30,Sr. Matheus Cassiano,Direito
+31,Antonella Gomes,Medicina
+32,Manuela Moura,Direito
+33,Samuel Mendes,Administração
+34,Thiago Novaes,Medicina
+35,Allana Lima,Medicina
+36,Brayan Martins,Administração
+37,Rafaela Vasconcelos,Engenharia
+38,Ayla Pereira,Medicina
+39,Heloísa Costa,Direito
+40,Enzo Azevedo,Engenharia
+41,Mariana Borges,Direito
+42,Leonardo Sales,Administração
+43,Guilherme Pereira,Administração
+44,Davi Lucca Sampaio,Engenharia
+45,Dom Teixeira,Direito
+46,Julia Rezende,Medicina
+47,Henrique Ribeiro,Medicina
+48,Ana Vitória Lopes,Medicina
+49,Enrico Correia,Direito
+50,Dr. Alexandre Souza,Administração
+51,Igor Pereira,Direito
+52,Gael Albuquerque,Medicina
+53,Ana Julia Caldeira,Administração
+54,Luiz Fernando da Paz,Administração
+55,Luiza Gomes,Engenharia
+56,Rebeca Pacheco,Administração
+57,Juan Sampaio,Medicina
+58,Sr. Felipe Porto,Medicina
+59,Emilly Aparecida,Administração
+60,Matheus Mendes,Engenharia
+61,Melissa da Conceição,Direito
+62,Daniela da Cunha,Administração
+63,Rebeca da Cruz,Medicina
+64,Ravy Lopes,Medicina
+65,Davi Miguel Silveira,Administração
+66,Lara Siqueira,Direito
+67,Thales Pires,Engenharia
+68,Ana Julia da Cruz,Medicina
+69,Srta. Raquel Farias,Medicina
+70,Sr. Bruno Fernandes,Administração
+71,Sr. Renan da Rocha,Medicina
+72,Daniela Nascimento,Engenharia
+73,Julia Sousa,Medicina
+74,Maria Vitória Borges,Administração
+75,Gustavo Leão,Medicina
+76,Raul Siqueira,Administração
+77,Caio da Luz,Administração
+78,Caroline Araújo,Medicina
+79,Alícia Melo,Direito
+80,Mathias Campos,Medicina
+81,Isaque Campos,Direito
+82,Paulo Campos,Administração
+83,Lorenzo da Cruz,Direito
+84,Bárbara Porto,Administração
+85,Nicolas Costa,Engenharia
+86,Heloísa Cavalcanti,Medicina
+87,Sr. Kaique Câmara,Engenharia
+88,Maysa Barros,Engenharia
+89,Sophia Alves,Engenharia
+90,José Pedro da Conceição,Medicina
+91,Sra. Alana Marques,Administração
+92,Sr. Emanuel Vieira,Direito
+93,Srta. Larissa Cirino,Medicina
+94,Hellena Teixeira,Engenharia
+95,Ana Sophia Barbosa,Engenharia
+96,Srta. Vitória Cavalcanti,Engenharia
+97,Ana Lívia Pinto,Administração
+98,Srta. Carolina Fonseca,Administração
+99,Sr. Antônio Novais,Administração
+100,Sra. Maria Luiza Peixoto,Medicina
+101,Eduarda Azevedo,Medicina
+102,Dr. Théo Câmara,Administração
+103,Luiz Otávio Costa,Administração
+104,Renan Nunes,Direito
+105,Allana Carvalho,Medicina
+106,Luara Jesus,Administração
+107,Pietro Viana,Medicina
+108,Allana Moreira,Medicina
+109,Noah Porto,Administração
+110,Yago Lopes,Medicina
+111,Enrico Rezende,Administração
+112,Juan da Cunha,Direito
+113,Rodrigo Albuquerque,Medicina
+114,Isaque Mendes,Administração
+115,Bento Mendonça,Medicina
+116,Sra. Amanda Casa Grande,Medicina
+117,Julia Gomes,Administração
+118,Heitor Casa Grande,Engenharia
+119,Pietro Castro,Direito
+120,Yasmin Melo,Direito
+121,Joana Campos,Direito
+122,Gabriela da Rosa,Engenharia
+123,Benício Farias,Administração
+124,Maria Sophia Alves,Engenharia
+125,Asafe Silva,Engenharia
+126,Amanda Silva,Engenharia
+127,Pietra da Conceição,Administração
+128,Isabela Campos,Direito
+129,Laura Souza,Direito
+130,Maria Julia Pereira,Engenharia
+131,Manuela Correia,Engenharia
+132,Melissa Marques,Medicina
+133,Raul Silveira,Direito
+134,Letícia Ribeiro,Direito
+135,Eduardo Moreira,Medicina
+136,Mateus Campos,Medicina
+137,Alexia Duarte,Medicina
+138,Alice Pacheco,Engenharia
+139,Dom Casa Grande,Engenharia
+140,Maria Cecília da Cruz,Engenharia
+141,Isaque Barros,Direito
+142,Sra. Maria Luísa Araújo,Engenharia
+143,Lorena Porto,Administração
+144,Sra. Ana Vitória Fonseca,Direito
+145,Rodrigo Pacheco,Medicina
+146,Heitor da Mota,Administração
+147,Isabel Pimenta,Engenharia
+148,Hadassa Leão,Engenharia
+149,Maria Liz Cardoso,Direito
+150,Sra. Melina Sá,Medicina
+151,Camila Pastor,Direito
+152,Alice Casa Grande,Medicina
+153,Ana Vitória Peixoto,Administração
+154,Francisco Pereira,Engenharia
+155,Paulo Casa Grande,Administração
+156,Mariane Moraes,Medicina
+157,Thomas da Mota,Direito
+158,Alexia Lima,Direito
+159,Maria Sophia Moraes,Direito
+160,Olivia Freitas,Engenharia
+161,Sophia Moura,Administração
+162,Lucca Peixoto,Direito
+163,Gustavo Monteiro,Medicina
+164,Davi Ribeiro,Administração
+165,Anna Liz Nascimento,Medicina
+166,Rael Peixoto,Administração
+167,Bruno Barros,Administração
+168,Luísa Silva,Direito
+169,Kaique Leão,Medicina
+170,Ana Carolina Viana,Direito
+171,Dr. Vitor da Rosa,Administração
+172,Bruno Sousa,Medicina
+173,Ester Araújo,Engenharia
+174,Luigi da Paz,Administração
+175,Sara Barros,Medicina
+176,Larissa Cavalcanti,Engenharia
+177,Ana Silveira,Direito
+178,Enzo Moura,Direito
+179,Luiz Otávio Azevedo,Administração
+180,Liam Costela,Direito
+181,José Miguel Fernandes,Direito
+182,Vinicius Machado,Medicina
+183,Luan Alves,Medicina
+184,Heloisa Garcia,Direito
+185,Jade Dias,Administração
+186,Pietro Araújo,Engenharia
+187,Dr. Yago Viana,Engenharia
+188,Thales Teixeira,Direito
+189,Beatriz Pastor,Engenharia
+190,Kaique Lima,Engenharia
+191,Ísis Lima,Administração
+192,Alexandre Moura,Engenharia
+193,Sofia Vasconcelos,Engenharia
+194,Dr. Emanuel da Paz,Administração
+195,Sra. Maria Clara Machado,Medicina
+196,Eduardo Pimenta,Medicina
+197,Clara Marques,Medicina
+198,Manuella Freitas,Engenharia
+199,Marcelo Fernandes,Direito
+200,Dr. Ryan Cirino,Medicina
+201,Vinicius Machado,Engenharia
+202,Sr. Carlos Eduardo Carvalho,Direito
+203,Pedro Henrique Albuquerque,Medicina
+204,Benicio Pereira,Direito
+205,Eduarda Vargas,Medicina
+206,Fernando Monteiro,Engenharia
+207,Nicole Farias,Medicina
+208,Kamilly Gomes,Engenharia
+209,Emilly Barros,Engenharia
+210,João Guilherme Martins,Engenharia
+211,Ísis Siqueira,Administração
+212,Srta. Sophie Peixoto,Engenharia
+213,Sr. Bryan Marques,Engenharia
+214,Dra. Isadora Gomes,Administração
+215,Emanuella Cassiano,Administração
+216,Srta. Lavínia Peixoto,Engenharia
+217,Benjamin Dias,Medicina
+218,Gael Henrique Ramos,Medicina
+219,Maitê Borges,Direito
+220,Dra. Fernanda Almeida,Direito
+221,Dr. Gael Henrique Nogueira,Administração
+222,Júlia Dias,Administração
+223,Luiz Henrique das Neves,Medicina
+224,Murilo Sales,Direito
+225,Eloá Nunes,Administração
+226,Thomas Ribeiro,Direito
+227,Leonardo Casa Grande,Medicina
+228,Dr. Pietro Fernandes,Medicina
+229,Josué Cirino,Direito
+230,Maria Flor Pastor,Administração
+231,Julia da Cunha,Engenharia
+232,Dr. Eduardo Castro,Medicina
+233,Mariane Ribeiro,Engenharia
+234,Sra. Daniela Freitas,Medicina
+235,Diego Rocha,Administração
+236,Emanuelly da Luz,Medicina
+237,Vicente Costela,Medicina
+238,Dr. Ian Cavalcanti,Direito
+239,Lucca Vieira,Medicina
+240,Maria Luísa Barbosa,Administração
+241,Dra. Amanda Garcia,Direito
+242,Maria Luiza Costela,Direito
+243,Breno Casa Grande,Medicina
+244,Srta. Esther Machado,Administração
+245,Vinícius Correia,Medicina
+246,Luiz Miguel Monteiro,Administração
+247,Maria Julia Sousa,Medicina
+248,Mariah Cassiano,Engenharia
+249,Luísa Andrade,Engenharia
+250,Ravi Lucca Gonçalves,Engenharia
+251,Julia Novaes,Direito
+252,Ana Júlia Vieira,Engenharia
+253,Alana Caldeira,Administração
+254,Igor Câmara,Direito
+255,Larissa Albuquerque,Engenharia
+256,Fernando Farias,Administração
+257,Luiz Felipe Martins,Administração
+258,Arthur Gabriel Marques,Medicina
+259,Sr. Josué Cunha,Administração
+260,Bárbara Pires,Direito
+261,Luiza Machado,Administração
+262,Ágatha Novais,Medicina
+263,Sr. Bento Aragão,Administração
+264,Sara Sá,Engenharia
+265,Dr. Thales Cirino,Direito
+266,Ísis Nunes,Administração
+267,Aylla Rios,Direito
+268,Giovanna Nunes,Administração
+269,Srta. Maria Vitória Pacheco,Medicina
+270,Vitor da Paz,Medicina
+271,Bernardo Siqueira,Direito
+272,Lavínia da Rocha,Administração
+273,Dr. Luiz Fernando Cirino,Medicina
+274,Levi Porto,Administração
+275,Nicolas Sampaio,Administração
+276,Luiz Miguel Silva,Medicina
+277,Dr. Yago Ribeiro,Direito
+278,Sr. Valentim Rios,Direito
+279,Matheus Castro,Administração
+280,Fernanda da Rosa,Engenharia
+281,Melissa Monteiro,Administração
+282,Maria Flor Silva,Engenharia
+283,Dr. Kaique Pinto,Direito
+284,Larissa Marques,Direito
+285,Dra. Maria Flor Pereira,Direito
+286,Lavínia Machado,Engenharia
+287,Samuel Cirino,Medicina
+288,Kamilly da Rocha,Direito
+289,Bruno Teixeira,Direito
+290,Ana Carolina Castro,Engenharia
+291,Aylla Novais,Medicina
+292,Gael Henrique Aragão,Direito
+293,Pedro Lucas Siqueira,Medicina
+294,Bella Freitas,Engenharia
+295,Maysa Castro,Medicina
+296,Marina da Cruz,Medicina
+297,Kevin Macedo,Medicina
+298,Ana Cecília Rezende,Engenharia
+299,Maria Vitória Duarte,Engenharia
+300,Sra. Sara Viana,Direito
+301,Eloah Mendonça,Engenharia
+302,Dante Cirino,Medicina
+303,Maria Sophia Alves,Engenharia
+304,Anthony Gabriel Lopes,Administração
+305,Ana Carolina Novais,Administração
+306,Vitor Pimenta,Medicina
+307,João Pedro Porto,Engenharia
+308,Sr. Pedro Miguel da Cruz,Engenharia
+309,Sr. Luiz Otávio Peixoto,Administração
+310,Théo Machado,Medicina
+311,Sarah Fogaça,Medicina
+312,Maria Luiza Nascimento,Engenharia
+313,Alexia da Conceição,Direito
+314,Fernanda Rodrigues,Administração
+315,Maria Luiza Rezende,Engenharia
+316,Otávio Cavalcanti,Administração
+317,Srta. Ana Vitória Pereira,Medicina
+318,Larissa Alves,Medicina
+319,Fernando Moraes,Direito
+320,Hadassa Casa Grande,Direito
+321,Dr. Kaique Alves,Administração
+322,Diego das Neves,Engenharia
+323,Dra. Maria Cecília Castro,Direito
+324,Gael Henrique Jesus,Direito
+325,Bianca Cavalcanti,Administração
+326,Marcelo Albuquerque,Engenharia
+327,Clara Cavalcanti,Medicina
+328,Dr. Kevin Duarte,Direito
+329,Lorenzo Ribeiro,Administração
+330,Dr. Isaac Nascimento,Engenharia
+331,Kevin Abreu,Engenharia
+332,Sr. Pedro Miguel Casa Grande,Administração
+333,Dr. Mateus Moreira,Direito
+334,Otávio Sousa,Medicina
+335,Nicole Pereira,Engenharia
+336,Emanuella da Luz,Direito
+337,Alexandre Mendonça,Medicina
+338,Sr. Ryan Ferreira,Engenharia
+339,Luiza Almeida,Engenharia
+340,Pedro Lucas Ramos,Direito
+341,Maria Dias,Engenharia
+342,Ravi Lucca Vieira,Direito
+343,Ana Laura Correia,Engenharia
+344,André Mendonça,Administração
+345,Lucas Gabriel Abreu,Administração
+346,Heloísa Costela,Administração
+347,Maria Liz Vieira,Engenharia
+348,Enzo Fonseca,Direito
+349,Rebeca Cirino,Direito
+350,Alícia Câmara,Direito
+351,Maria Eduarda Sampaio,Engenharia
+352,Sr. Arthur Miguel Mendonça,Administração
+353,Ísis Brito,Direito
+354,Clara Alves,Direito
+355,Benjamim Machado,Engenharia
+356,Bryan Araújo,Engenharia
+357,Matheus Pimenta,Direito
+358,Ryan Mendes,Medicina
+359,Maria Cecília Santos,Engenharia
+360,Eduardo Lopes,Administração
+361,Giovanna da Costa,Medicina
+362,Maria Clara Sales,Administração
+363,Luara Leão,Direito
+364,Isabelly Nunes,Direito
+365,João Pedro Brito,Medicina
+366,Guilherme Peixoto,Direito
+367,Joana Macedo,Administração
+368,Pietra Macedo,Administração
+369,Rafael Fogaça,Administração
+370,Diogo Montenegro,Administração
+371,Ayla Duarte,Engenharia
+372,Valentim Silva,Administração
+373,Ayla Cavalcante,Engenharia
+374,Eduardo da Mota,Direito
+375,Dr. Mateus Fogaça,Direito
+376,Diego Pires,Medicina
+377,Carlos Eduardo Cirino,Direito
+378,Ana Laura da Mata,Medicina
+379,Sr. Bruno das Neves,Engenharia
+380,Ravy Cunha,Administração
+381,Mariah Moraes,Medicina
+382,Mateus Guerra,Medicina
+383,Luiz Fernando Andrade,Administração
+384,Sr. Francisco da Luz,Engenharia
+385,Dr. Ian da Mota,Engenharia
+386,Srta. Kamilly Casa Grande,Administração
+387,André Brito,Engenharia
+388,Brenda Macedo,Medicina
+389,João Miguel Andrade,Direito
+390,Bryan Almeida,Medicina
+391,Rodrigo da Luz,Administração
+392,Bárbara Novaes,Engenharia
+393,Cecilia Marques,Administração
+394,Isabella Martins,Direito
+395,José Costela,Direito
+396,Maria Luísa Barros,Engenharia
+397,Dr. Ian Silveira,Direito
+398,Leandro Silveira,Engenharia
+399,Gael Sousa,Administração
+400,Marcela Costela,Administração
+401,Beatriz da Luz,Engenharia
+402,Maria Isis Teixeira,Engenharia
+403,Larissa Mendonça,Direito
+404,Felipe da Costa,Medicina
+405,Ana Vitória Siqueira,Medicina
+406,Emilly Azevedo,Medicina
+407,Sr. Luiz Miguel Guerra,Engenharia
+408,Juan Pinto,Administração
+409,Cecília Borges,Medicina
+410,Dra. Melina Novaes,Medicina
+411,Ana Beatriz Souza,Engenharia
+412,Dr. Bryan Guerra,Medicina
+413,Thomas da Rocha,Engenharia
+414,André Sá,Administração
+415,Miguel da Cunha,Direito
+416,Noah Pinto,Medicina
+417,Juan Pinto,Direito
+418,Aurora Pacheco,Medicina
+419,Sr. Luigi Porto,Direito
+420,Maria Flor Macedo,Engenharia
+421,Nina Cardoso,Engenharia
+422,Beatriz Vargas,Direito
+423,Ravy Marques,Direito
+424,Renan Rios,Direito
+425,Maria Cecília Camargo,Engenharia
+426,Sr. Danilo Freitas,Engenharia
+427,Sra. Maya Mendes,Direito
+428,Sr. Lorenzo Costa,Direito
+429,Mateus Gonçalves,Direito
+430,Bárbara da Rosa,Engenharia
+431,Antônio Brito,Medicina
+432,Lucas Camargo,Medicina
+433,Maria Alice Duarte,Engenharia
+434,Gustavo Henrique Pires,Administração
+435,Emilly Costela,Medicina
+436,Theodoro Machado,Medicina
+437,Ana Clara Machado,Engenharia
+438,Antonella Fernandes,Administração
+439,Ian da Cruz,Medicina
+440,Aylla Nunes,Medicina
+441,Thomas Marques,Administração
+442,Dra. Camila Ribeiro,Direito
+443,Mathias Casa Grande,Medicina
+444,João Felipe da Mota,Medicina
+445,Maria Sophia Almeida,Medicina
+446,Luigi Garcia,Administração
+447,Eloá Barros,Medicina
+448,Dra. Eduarda Viana,Direito
+449,Julia Marques,Medicina
+450,Sophie Mendes,Administração
+451,Sofia da Rocha,Engenharia
+452,Bento Azevedo,Administração
+453,Eloah Aragão,Administração
+454,Isabella da Costa,Direito
+455,Ana Beatriz Dias,Medicina
+456,Maria Júlia Cirino,Direito
+457,Cauê Câmara,Engenharia
+458,Kevin da Cruz,Administração
+459,Caleb da Rocha,Administração
+460,Breno Santos,Direito
+461,Luísa Carvalho,Engenharia
+462,Valentim Silva,Engenharia
+463,Vitor Correia,Medicina
+464,Emanuella Fernandes,Direito
+465,Maitê Nunes,Engenharia
+466,Gustavo Correia,Direito
+467,Levi da Cunha,Medicina
+468,Otto Pastor,Engenharia
+469,Maysa Montenegro,Medicina
+470,Benicio Borges,Direito
+471,Eloah Martins,Medicina
+472,Sr. Juan Novais,Medicina
+473,Dr. Daniel Barros,Engenharia
+474,Arthur Silveira,Administração
+475,Sra. Milena Marques,Direito
+476,Maria Laura Carvalho,Administração
+477,Ana Vitória Nogueira,Direito
+478,Lucca Nunes,Medicina
+479,Dr. Renan da Paz,Direito
+480,Dra. Isadora Brito,Administração
+481,Luiz Henrique Gonçalves,Engenharia
+482,Ana Beatriz Gonçalves,Direito
+483,Vitória Freitas,Direito
+484,Camila Moura,Administração
+485,José Miguel Vasconcelos,Direito
+486,Maysa Câmara,Administração
+487,Gabriel da Conceição,Administração
+488,Eduardo das Neves,Medicina
+489,Laís Pimenta,Administração
+490,Sara da Mata,Medicina
+491,Apollo Pastor,Engenharia
+492,Yan Silveira,Medicina
+493,Srta. Eloá Rios,Direito
+494,Cecília Ferreira,Engenharia
+495,Felipe Novaes,Direito
+496,Gael Henrique Rodrigues,Medicina
+497,Vitória Siqueira,Medicina
+498,Sr. Ravi Borges,Direito
+499,Mariah Macedo,Medicina
+500,Isabel da Costa,Direito

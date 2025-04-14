@@ -1,0 +1,318 @@
+estudanteID,nome,curso,notas,status
+3,Marcelo Castro,Direito,90.63499999999999,Ativo
+7,Sra. Liz Cassiano,Direito,83.485,Ativo
+8,Ravy da Cruz,Direito,61.51,Inativo
+10,Ana Clara Aparecida,Administração,99.06,Ativo
+11,Diego Rios,Medicina,83.3,Ativo
+15,Allana da Costa,Engenharia,71.18666666666667,Ativo
+17,Paulo Gonçalves,Engenharia,88.98,Ativo
+18,Larissa Garcia,Administração,78.95,Ativo
+23,Ana Luiza Viana,Engenharia,61.06,Inativo
+25,João Guilherme Silveira,Medicina,83.59,Ativo
+26,Sra. Luísa Moraes,Engenharia,67.275,Inativo
+27,Fernanda Correia,Direito,68.38333333333334,Inativo
+28,Sr. Danilo Alves,Administração,96.97,Ativo
+29,Ana Laura Moreira,Administração,62.88,Inativo
+30,Sr. Matheus Cassiano,Direito,84.26,Ativo
+31,Antonella Gomes,Medicina,75.0,Ativo
+32,Manuela Moura,Direito,83.975,Ativo
+33,Samuel Mendes,Administração,86.94,Ativo
+35,Allana Lima,Medicina,89.125,Ativo
+36,Brayan Martins,Administração,66.06,Inativo
+40,Enzo Azevedo,Engenharia,71.48,Ativo
+42,Leonardo Sales,Administração,99.3,Ativo
+43,Guilherme Pereira,Administração,59.24,Inativo
+44,Davi Lucca Sampaio,Engenharia,93.785,Ativo
+48,Ana Vitória Lopes,Medicina,69.625,Inativo
+50,Dr. Alexandre Souza,Administração,80.0,Ativo
+51,Igor Pereira,Direito,64.06,Inativo
+52,Gael Albuquerque,Medicina,78.35333333333334,Ativo
+53,Ana Julia Caldeira,Administração,61.995000000000005,Inativo
+54,Luiz Fernando da Paz,Administração,83.2,Ativo
+55,Luiza Gomes,Engenharia,93.92,Ativo
+58,Sr. Felipe Porto,Medicina,93.82,Ativo
+59,Emilly Aparecida,Administração,80.68,Ativo
+64,Ravy Lopes,Medicina,54.88,Inativo
+68,Ana Julia da Cruz,Medicina,64.605,Inativo
+69,Srta. Raquel Farias,Medicina,52.66,Inativo
+70,Sr. Bruno Fernandes,Administração,66.645,Inativo
+71,Sr. Renan da Rocha,Medicina,67.03,Inativo
+74,Maria Vitória Borges,Administração,97.54,Ativo
+75,Gustavo Leão,Medicina,98.87,Ativo
+78,Caroline Araújo,Medicina,83.22,Ativo
+81,Isaque Campos,Direito,71.15,Ativo
+82,Paulo Campos,Administração,56.39,Inativo
+83,Lorenzo da Cruz,Direito,83.4,Ativo
+89,Sophia Alves,Engenharia,76.12,Ativo
+90,José Pedro da Conceição,Medicina,94.75,Ativo
+92,Sr. Emanuel Vieira,Direito,51.12,Inativo
+93,Srta. Larissa Cirino,Medicina,87.75,Ativo
+94,Hellena Teixeira,Engenharia,81.03,Ativo
+95,Ana Sophia Barbosa,Engenharia,97.55,Ativo
+96,Srta. Vitória Cavalcanti,Engenharia,68.91,Inativo
+97,Ana Lívia Pinto,Administração,92.72999999999999,Ativo
+99,Sr. Antônio Novais,Administração,62.62,Inativo
+100,Sra. Maria Luiza Peixoto,Medicina,88.36,Ativo
+101,Eduarda Azevedo,Medicina,56.04,Inativo
+102,Dr. Théo Câmara,Administração,71.62,Ativo
+106,Luara Jesus,Administração,82.04,Ativo
+107,Pietro Viana,Medicina,84.48,Ativo
+108,Allana Moreira,Medicina,66.69999999999999,Inativo
+111,Enrico Rezende,Administração,91.49,Ativo
+112,Juan da Cunha,Direito,82.64,Ativo
+115,Bento Mendonça,Medicina,70.71,Ativo
+116,Sra. Amanda Casa Grande,Medicina,70.16,Ativo
+117,Julia Gomes,Administração,97.99,Ativo
+118,Heitor Casa Grande,Engenharia,83.16,Ativo
+121,Joana Campos,Direito,92.91,Ativo
+122,Gabriela da Rosa,Engenharia,80.695,Ativo
+123,Benício Farias,Administração,64.16,Inativo
+125,Asafe Silva,Engenharia,86.695,Ativo
+126,Amanda Silva,Engenharia,69.985,Inativo
+127,Pietra da Conceição,Administração,71.30499999999999,Ativo
+128,Isabela Campos,Direito,72.7,Ativo
+129,Laura Souza,Direito,78.42,Ativo
+131,Manuela Correia,Engenharia,61.24,Inativo
+132,Melissa Marques,Medicina,98.18,Ativo
+134,Letícia Ribeiro,Direito,94.5,Ativo
+136,Mateus Campos,Medicina,94.77,Ativo
+142,Sra. Maria Luísa Araújo,Engenharia,75.88499999999999,Ativo
+146,Heitor da Mota,Administração,67.42,Inativo
+147,Isabel Pimenta,Engenharia,83.2,Ativo
+148,Hadassa Leão,Engenharia,67.78,Inativo
+149,Maria Liz Cardoso,Direito,98.17,Ativo
+150,Sra. Melina Sá,Medicina,89.27666666666669,Ativo
+151,Camila Pastor,Direito,79.83,Ativo
+152,Alice Casa Grande,Medicina,87.03,Ativo
+154,Francisco Pereira,Engenharia,83.78,Ativo
+155,Paulo Casa Grande,Administração,94.13,Ativo
+156,Mariane Moraes,Medicina,76.79,Ativo
+157,Thomas da Mota,Direito,57.09,Inativo
+160,Olivia Freitas,Engenharia,98.49,Ativo
+161,Sophia Moura,Administração,58.63666666666666,Inativo
+162,Lucca Peixoto,Direito,70.255,Ativo
+165,Anna Liz Nascimento,Medicina,66.08,Inativo
+166,Rael Peixoto,Administração,66.06,Inativo
+169,Kaique Leão,Medicina,83.82,Ativo
+170,Ana Carolina Viana,Direito,74.035,Ativo
+171,Dr. Vitor da Rosa,Administração,93.15,Ativo
+172,Bruno Sousa,Medicina,63.14,Inativo
+174,Luigi da Paz,Administração,92.54,Ativo
+175,Sara Barros,Medicina,61.82,Inativo
+176,Larissa Cavalcanti,Engenharia,66.24,Inativo
+181,José Miguel Fernandes,Direito,81.655,Ativo
+182,Vinicius Machado,Medicina,95.62,Ativo
+183,Luan Alves,Medicina,66.57,Inativo
+184,Heloisa Garcia,Direito,73.50857142857141,Ativo
+185,Jade Dias,Administração,60.019999999999996,Inativo
+186,Pietro Araújo,Engenharia,96.05,Ativo
+187,Dr. Yago Viana,Engenharia,74.97,Ativo
+189,Beatriz Pastor,Engenharia,62.47,Inativo
+192,Alexandre Moura,Engenharia,80.15333333333332,Ativo
+193,Sofia Vasconcelos,Engenharia,53.6,Inativo
+195,Sra. Maria Clara Machado,Medicina,76.76,Ativo
+196,Eduardo Pimenta,Medicina,70.32,Ativo
+197,Clara Marques,Medicina,52.53,Inativo
+198,Manuella Freitas,Engenharia,90.08,Ativo
+199,Marcelo Fernandes,Direito,80.7,Ativo
+200,Dr. Ryan Cirino,Medicina,67.06,Inativo
+202,Sr. Carlos Eduardo Carvalho,Direito,76.57,Ativo
+204,Benicio Pereira,Direito,96.02,Ativo
+205,Eduarda Vargas,Medicina,81.49,Ativo
+206,Fernando Monteiro,Engenharia,98.02,Ativo
+207,Nicole Farias,Medicina,89.76,Ativo
+208,Kamilly Gomes,Engenharia,65.82000000000001,Inativo
+209,Emilly Barros,Engenharia,96.77,Ativo
+211,Ísis Siqueira,Administração,76.41499999999999,Ativo
+213,Sr. Bryan Marques,Engenharia,89.75999999999999,Ativo
+214,Dra. Isadora Gomes,Administração,74.99,Ativo
+215,Emanuella Cassiano,Administração,78.26,Ativo
+217,Benjamin Dias,Medicina,59.92,Inativo
+219,Maitê Borges,Direito,75.68333333333334,Ativo
+221,Dr. Gael Henrique Nogueira,Administração,81.07,Ativo
+223,Luiz Henrique das Neves,Medicina,66.79,Inativo
+224,Murilo Sales,Direito,67.59333333333333,Inativo
+226,Thomas Ribeiro,Direito,89.60499999999999,Ativo
+227,Leonardo Casa Grande,Medicina,71.17,Ativo
+228,Dr. Pietro Fernandes,Medicina,92.735,Ativo
+230,Maria Flor Pastor,Administração,87.805,Ativo
+233,Mariane Ribeiro,Engenharia,98.78,Ativo
+234,Sra. Daniela Freitas,Medicina,98.68,Ativo
+235,Diego Rocha,Administração,77.08999999999999,Ativo
+236,Emanuelly da Luz,Medicina,77.705,Ativo
+237,Vicente Costela,Medicina,89.47,Ativo
+238,Dr. Ian Cavalcanti,Direito,70.66666666666667,Ativo
+239,Lucca Vieira,Medicina,65.64,Inativo
+240,Maria Luísa Barbosa,Administração,54.01,Inativo
+242,Maria Luiza Costela,Direito,63.77,Inativo
+243,Breno Casa Grande,Medicina,76.31,Ativo
+244,Srta. Esther Machado,Administração,59.71,Inativo
+245,Vinícius Correia,Medicina,57.47,Inativo
+246,Luiz Miguel Monteiro,Administração,75.66499999999999,Ativo
+247,Maria Julia Sousa,Medicina,68.03666666666668,Inativo
+251,Julia Novaes,Direito,79.66666666666667,Ativo
+252,Ana Júlia Vieira,Engenharia,90.42,Ativo
+253,Alana Caldeira,Administração,77.43666666666667,Ativo
+255,Larissa Albuquerque,Engenharia,62.09,Inativo
+256,Fernando Farias,Administração,53.08,Inativo
+259,Sr. Josué Cunha,Administração,69.36,Inativo
+262,Ágatha Novais,Medicina,78.21,Ativo
+263,Sr. Bento Aragão,Administração,78.13499999999999,Ativo
+264,Sara Sá,Engenharia,60.88,Inativo
+265,Dr. Thales Cirino,Direito,51.93,Inativo
+266,Ísis Nunes,Administração,90.56,Ativo
+267,Aylla Rios,Direito,62.58,Inativo
+268,Giovanna Nunes,Administração,72.005,Ativo
+269,Srta. Maria Vitória Pacheco,Medicina,64.04,Inativo
+272,Lavínia da Rocha,Administração,81.725,Ativo
+273,Dr. Luiz Fernando Cirino,Medicina,59.82,Inativo
+275,Nicolas Sampaio,Administração,84.43,Ativo
+278,Sr. Valentim Rios,Direito,87.46,Ativo
+280,Fernanda da Rosa,Engenharia,79.36,Ativo
+281,Melissa Monteiro,Administração,59.815,Inativo
+282,Maria Flor Silva,Engenharia,51.18,Inativo
+287,Samuel Cirino,Medicina,50.8,Inativo
+290,Ana Carolina Castro,Engenharia,75.27,Ativo
+291,Aylla Novais,Medicina,73.73,Ativo
+294,Bella Freitas,Engenharia,72.96000000000001,Ativo
+295,Maysa Castro,Medicina,72.66,Ativo
+296,Marina da Cruz,Medicina,66.23,Inativo
+297,Kevin Macedo,Medicina,81.195,Ativo
+299,Maria Vitória Duarte,Engenharia,70.85,Ativo
+300,Sra. Sara Viana,Direito,68.42,Inativo
+303,Maria Sophia Alves,Engenharia,78.04,Ativo
+304,Anthony Gabriel Lopes,Administração,53.97,Inativo
+305,Ana Carolina Novais,Administração,68.57,Inativo
+306,Vitor Pimenta,Medicina,83.625,Ativo
+307,João Pedro Porto,Engenharia,87.23,Ativo
+308,Sr. Pedro Miguel da Cruz,Engenharia,58.47,Inativo
+309,Sr. Luiz Otávio Peixoto,Administração,69.685,Inativo
+310,Théo Machado,Medicina,75.67,Ativo
+312,Maria Luiza Nascimento,Engenharia,54.8,Inativo
+318,Larissa Alves,Medicina,59.44,Inativo
+319,Fernando Moraes,Direito,76.205,Ativo
+320,Hadassa Casa Grande,Direito,64.82,Inativo
+324,Gael Henrique Jesus,Direito,88.38,Ativo
+325,Bianca Cavalcanti,Administração,62.33,Inativo
+326,Marcelo Albuquerque,Engenharia,85.22,Ativo
+327,Clara Cavalcanti,Medicina,71.23,Ativo
+328,Dr. Kevin Duarte,Direito,80.79,Ativo
+329,Lorenzo Ribeiro,Administração,90.05,Ativo
+330,Dr. Isaac Nascimento,Engenharia,88.03,Ativo
+331,Kevin Abreu,Engenharia,68.93,Inativo
+332,Sr. Pedro Miguel Casa Grande,Administração,62.94,Inativo
+334,Otávio Sousa,Medicina,55.64,Inativo
+335,Nicole Pereira,Engenharia,99.07,Ativo
+336,Emanuella da Luz,Direito,69.39500000000001,Inativo
+337,Alexandre Mendonça,Medicina,57.71,Inativo
+338,Sr. Ryan Ferreira,Engenharia,85.58,Ativo
+339,Luiza Almeida,Engenharia,87.76,Ativo
+343,Ana Laura Correia,Engenharia,98.63,Ativo
+344,André Mendonça,Administração,75.325,Ativo
+346,Heloísa Costela,Administração,99.71,Ativo
+347,Maria Liz Vieira,Engenharia,63.114999999999995,Inativo
+348,Enzo Fonseca,Direito,79.79,Ativo
+349,Rebeca Cirino,Direito,82.345,Ativo
+350,Alícia Câmara,Direito,62.8,Inativo
+353,Ísis Brito,Direito,54.37,Inativo
+354,Clara Alves,Direito,67.67999999999999,Inativo
+355,Benjamim Machado,Engenharia,75.255,Ativo
+357,Matheus Pimenta,Direito,83.05,Ativo
+358,Ryan Mendes,Medicina,50.59,Inativo
+361,Giovanna da Costa,Medicina,86.01666666666667,Ativo
+363,Luara Leão,Direito,72.21000000000001,Ativo
+364,Isabelly Nunes,Direito,73.59,Ativo
+365,João Pedro Brito,Medicina,76.295,Ativo
+366,Guilherme Peixoto,Direito,57.86,Inativo
+368,Pietra Macedo,Administração,96.84,Ativo
+369,Rafael Fogaça,Administração,66.12,Inativo
+370,Diogo Montenegro,Administração,81.23,Ativo
+371,Ayla Duarte,Engenharia,53.79,Inativo
+372,Valentim Silva,Administração,74.355,Ativo
+373,Ayla Cavalcante,Engenharia,66.67,Inativo
+375,Dr. Mateus Fogaça,Direito,74.405,Ativo
+376,Diego Pires,Medicina,54.565,Inativo
+380,Ravy Cunha,Administração,94.305,Ativo
+381,Mariah Moraes,Medicina,76.83,Ativo
+382,Mateus Guerra,Medicina,50.83,Inativo
+383,Luiz Fernando Andrade,Administração,91.08,Ativo
+384,Sr. Francisco da Luz,Engenharia,72.275,Ativo
+385,Dr. Ian da Mota,Engenharia,97.66,Ativo
+387,André Brito,Engenharia,53.97,Inativo
+389,João Miguel Andrade,Direito,76.8,Ativo
+390,Bryan Almeida,Medicina,84.81,Ativo
+391,Rodrigo da Luz,Administração,97.22,Ativo
+392,Bárbara Novaes,Engenharia,93.95,Ativo
+393,Cecilia Marques,Administração,90.73,Ativo
+394,Isabella Martins,Direito,91.57,Ativo
+395,José Costela,Direito,67.045,Inativo
+396,Maria Luísa Barros,Engenharia,71.63,Ativo
+397,Dr. Ian Silveira,Direito,90.78,Ativo
+398,Leandro Silveira,Engenharia,72.99666666666667,Ativo
+400,Marcela Costela,Administração,66.35,Inativo
+401,Beatriz da Luz,Engenharia,84.88499999999999,Ativo
+403,Larissa Mendonça,Direito,83.215,Ativo
+406,Emilly Azevedo,Medicina,96.59,Ativo
+407,Sr. Luiz Miguel Guerra,Engenharia,68.69,Inativo
+410,Dra. Melina Novaes,Medicina,80.208,Ativo
+412,Dr. Bryan Guerra,Medicina,70.41333333333334,Ativo
+413,Thomas da Rocha,Engenharia,84.57,Ativo
+415,Miguel da Cunha,Direito,78.27,Ativo
+417,Juan Pinto,Direito,65.14,Inativo
+419,Sr. Luigi Porto,Direito,68.62,Inativo
+420,Maria Flor Macedo,Engenharia,51.52,Inativo
+421,Nina Cardoso,Engenharia,75.935,Ativo
+422,Beatriz Vargas,Direito,83.36666666666667,Ativo
+423,Ravy Marques,Direito,74.85333333333334,Ativo
+426,Sr. Danilo Freitas,Engenharia,66.03,Inativo
+428,Sr. Lorenzo Costa,Direito,91.52,Ativo
+430,Bárbara da Rosa,Engenharia,86.51,Ativo
+431,Antônio Brito,Medicina,58.68,Inativo
+432,Lucas Camargo,Medicina,91.74,Ativo
+434,Gustavo Henrique Pires,Administração,61.435,Inativo
+436,Theodoro Machado,Medicina,80.42,Ativo
+437,Ana Clara Machado,Engenharia,58.66,Inativo
+439,Ian da Cruz,Medicina,88.39,Ativo
+440,Aylla Nunes,Medicina,74.74,Ativo
+441,Thomas Marques,Administração,74.61,Ativo
+442,Dra. Camila Ribeiro,Direito,74.24,Ativo
+444,João Felipe da Mota,Medicina,66.1,Inativo
+446,Luigi Garcia,Administração,78.48,Ativo
+447,Eloá Barros,Medicina,67.28,Inativo
+449,Julia Marques,Medicina,73.08999999999999,Ativo
+453,Eloah Aragão,Administração,70.84,Ativo
+455,Ana Beatriz Dias,Medicina,80.47666666666667,Ativo
+456,Maria Júlia Cirino,Direito,81.01,Ativo
+458,Kevin da Cruz,Administração,83.68,Ativo
+460,Breno Santos,Direito,88.68,Ativo
+461,Luísa Carvalho,Engenharia,75.965,Ativo
+463,Vitor Correia,Medicina,86.09,Ativo
+464,Emanuella Fernandes,Direito,75.505,Ativo
+465,Maitê Nunes,Engenharia,71.17333333333333,Ativo
+466,Gustavo Correia,Direito,69.96,Inativo
+467,Levi da Cunha,Medicina,88.66,Ativo
+468,Otto Pastor,Engenharia,83.265,Ativo
+469,Maysa Montenegro,Medicina,89.94666666666666,Ativo
+470,Benicio Borges,Direito,98.66,Ativo
+471,Eloah Martins,Medicina,67.85,Inativo
+473,Dr. Daniel Barros,Engenharia,92.35,Ativo
+474,Arthur Silveira,Administração,76.87,Ativo
+475,Sra. Milena Marques,Direito,99.71,Ativo
+476,Maria Laura Carvalho,Administração,80.51,Ativo
+477,Ana Vitória Nogueira,Direito,71.61,Ativo
+478,Lucca Nunes,Medicina,66.62,Inativo
+479,Dr. Renan da Paz,Direito,83.21000000000001,Ativo
+480,Dra. Isadora Brito,Administração,89.74,Ativo
+481,Luiz Henrique Gonçalves,Engenharia,78.895,Ativo
+484,Camila Moura,Administração,89.99,Ativo
+485,José Miguel Vasconcelos,Direito,82.41,Ativo
+486,Maysa Câmara,Administração,72.25,Ativo
+488,Eduardo das Neves,Medicina,66.58,Inativo
+489,Laís Pimenta,Administração,67.16499999999999,Inativo
+490,Sara da Mata,Medicina,85.67,Ativo
+491,Apollo Pastor,Engenharia,73.175,Ativo
+493,Srta. Eloá Rios,Direito,64.105,Inativo
+494,Cecília Ferreira,Engenharia,70.47,Ativo
+496,Gael Henrique Rodrigues,Medicina,59.96,Inativo
+499,Mariah Macedo,Medicina,76.78,Ativo
+500,Isabel da Costa,Direito,69.93,Inativo

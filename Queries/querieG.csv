@@ -1,0 +1,14 @@
+estado,cidade,media_notas
+PR,Curitiba,74.871581
+PR,Florianópolis,77.736078
+PR,Joinville,78.752804
+PR,NULL,76.282978
+SC,Curitiba,77.168571
+SC,Florianópolis,74.095238
+SC,Joinville,75.436851
+SC,NULL,75.697426
+NULL,NULL,76.082720
+NULL,Curitiba,75.276932
+NULL,Florianópolis,76.674166
+NULL,Joinville,76.867947
+NULL,NULL,76.082720

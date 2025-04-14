@@ -1,0 +1,17 @@
+curso_instrutor,curso_estudante,media_notas
+Biologia,Administração,79.192380
+Direito,Administração,74.192903
+Economia,Administração,78.515384
+Matemática,Administração,71.814137
+Biologia,Direito,77.532222
+Direito,Direito,76.644130
+Economia,Direito,76.274444
+Matemática,Direito,74.505806
+Biologia,Engenharia,75.160000
+Direito,Engenharia,76.453714
+Economia,Engenharia,78.377878
+Matemática,Engenharia,75.535357
+Biologia,Medicina,81.845454
+Direito,Medicina,75.238936
+Economia,Medicina,77.052222
+Matemática,Medicina,71.561081
