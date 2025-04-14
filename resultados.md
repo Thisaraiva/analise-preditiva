@@ -290,7 +290,7 @@ graph LR
 
 **a) Processo de Geração de Dados Sintéticos:**
 
-Os dados para este projeto foram gerados sinteticamente utilizando a biblioteca `Faker` para dados de nomes e a biblioteca `random` para escolhas aleatórias e valores numéricos. O processo detalhado de geração para cada tabela (Estudante, Instrutor, Aula, Aulas_assistidas) foi apresentado na resposta da questão 3 da tarefa anterior. Em resumo, scripts Python foram utilizados para criar amostras de dados com características relevantes para o domínio do problema, como nomes de estudantes e instrutores, cursos, instituições de ensino, cidades, estados e notas de aulas assistidas.
+Os dados para este projeto foram gerados sinteticamente utilizando a biblioteca `Faker` para dados de nomes e a biblioteca `random` para escolhas aleatórias e valores numéricos. O processo gerou cada uma das tabelas (Estudante, Instrutor, Aula, Aulas_assistidas). Em resumo, scripts Python foram utilizados para criar amostras de dados com características relevantes para o domínio do problema, como nomes de estudantes e instrutores, cursos, instituições de ensino, cidades, estados e notas de aulas assistidas.
 
 **b) Demonstração das Operações ETL (Extraction, Transformation e Load):**
 
