@@ -1,0 +1,501 @@
+id_cliente,nome,telefone,data_adesao,status,plano,tempo_assinatura
+1,Ana Cecília da Rosa,(021) 3172 6203,2024-04-26,inativo,Premium,11
+2,Bento da Mata,+55 (021) 3678 9732,2025-01-01,ativo,Básico,3
+3,Olivia Aparecida,+55 84 7477-4962,2024-11-02,inativo,Básico,5
+4,João Pedro Ribeiro,+55 (084) 3050-2133,2024-10-10,ativo,Familiar,6
+5,Davi Luiz Santos,+55 71 3722 0488,2023-11-13,ativo,Intermediário,17
+6,Sra. Beatriz Moura,51 4909 0428,2024-12-21,inativo,Básico,3
+7,Sofia da Cunha,21 9241 0925,2025-03-03,ativo,Intermediário,1
+8,Clara Camargo,+55 (051) 6046-1353,2025-03-24,ativo,Básico,0
+9,Dra. Maria Fernanda Rios,+55 (081) 4956-7785,2024-04-23,ativo,Básico,11
+10,José Miguel Macedo,+55 51 5058 2433,2024-01-23,inativo,Premium,14
+11,Melissa Pires,0500-761-6109,2024-09-01,inativo,Intermediário,7
+12,Theo Marques,+55 51 6993 2689,2024-01-19,ativo,Familiar,15
+13,Matteo Caldeira,+55 (011) 0665-4835,2024-09-29,inativo,Básico,6
+14,Elisa Almeida,+55 31 4589 9651,2024-02-27,ativo,Familiar,13
+15,Rebeca das Neves,+55 (041) 3383 9126,2024-12-20,inativo,Premium,3
+16,Ana Beatriz Araújo,84 2417 1104,2024-01-25,inativo,Familiar,14
+17,Anna Liz Melo,+55 84 1260-2826,2024-03-22,inativo,Premium,13
+18,Sr. Davi Luiz Rodrigues,+55 (021) 8556 4804,2024-09-24,inativo,Básico,6
+19,Henry Freitas,+55 31 8152 6946,2024-08-04,ativo,Intermediário,8
+20,Pedro Campos,+55 11 1345-6954,2023-12-16,ativo,Premium,16
+21,Ana Clara Cavalcanti,41 1092 0742,2023-08-04,inativo,Intermediário,20
+22,Luiz Otávio Martins,+55 (051) 2555-0432,2024-12-06,ativo,Premium,4
+23,Yago Vasconcelos,41 6841 4675,2024-06-04,inativo,Intermediário,10
+24,Erick Moraes,11 0629 4357,2023-11-14,inativo,Familiar,17
+25,Beatriz Novaes,41 0246-8438,2023-12-28,inativo,Intermediário,15
+26,Sabrina Sales,61 2140-9786,2024-03-06,inativo,Intermediário,13
+27,Vitória Ramos,(081) 8318-7982,2024-12-31,inativo,Familiar,3
+28,Dom Rezende,0800-595-5820,2024-05-13,inativo,Familiar,11
+29,Sr. Leonardo Fogaça,(041) 7643 5105,2024-12-20,ativo,Premium,3
+30,Arthur Miguel Barros,+55 51 0263 5611,2024-04-20,inativo,Intermediário,12
+31,Ester Moraes,81 5090 2534,2024-02-18,inativo,Intermediário,14
+32,Antonella Cavalcante,31 8128 8157,2024-04-06,inativo,Intermediário,12
+33,Benjamim Novaes,+55 (081) 2756 3353,2023-10-08,inativo,Intermediário,18
+34,Maria Clara Pinto,0500-832-7787,2025-04-03,inativo,Familiar,0
+35,Davi Lucas Borges,(021) 9640 5523,2024-05-06,inativo,Intermediário,11
+36,Amanda Gonçalves,0300-919-0375,2024-12-06,inativo,Premium,4
+37,Davi Fernandes,+55 31 5277 0113,2024-08-30,ativo,Familiar,7
+38,Benicio Albuquerque,41 3766-9842,2023-11-10,ativo,Intermediário,17
+39,Eduardo Andrade,+55 (071) 1795 9183,2024-10-21,ativo,Premium,5
+40,Ana Liz Silva,+55 (061) 1092-6741,2024-12-16,inativo,Familiar,4
+41,João Pedro Carvalho,+55 41 1843 3628,2024-09-24,inativo,Básico,6
+42,Daniela Moreira,+55 11 8750 6546,2023-12-25,inativo,Intermediário,15
+43,Benjamim Leão,+55 84 1693-5836,2023-10-07,inativo,Familiar,18
+44,Diogo Alves,0900 183 4796,2023-10-19,inativo,Premium,18
+45,Ísis Rios,+55 31 2094-9574,2023-05-05,inativo,Familiar,23
+46,Mateus Borges,+55 (021) 2299 3081,2024-08-20,ativo,Premium,7
+47,Alícia Pastor,(081) 6688 3493,2024-12-27,ativo,Intermediário,3
+48,Caroline Vieira,41 9840 7063,2024-10-08,ativo,Básico,6
+49,Davi Lucca Mendonça,(031) 5765 8522,2024-12-02,inativo,Intermediário,4
+50,Lívia Campos,+55 31 2134 3032,2025-02-19,inativo,Familiar,1
+51,Emanuelly Carvalho,+55 11 5999 4504,2024-03-04,ativo,Básico,13
+52,Pedro Miguel Brito,+55 11 1539-6525,2023-07-12,inativo,Premium,21
+53,Vicente Duarte,84 9580 5695,2023-06-21,inativo,Premium,22
+54,Antony da Paz,+55 (011) 5787-0715,2023-08-25,inativo,Básico,20
+55,Sr. Heitor Correia,(071) 4596-7843,2023-11-13,ativo,Básico,17
+56,Lorena Gonçalves,(084) 5481-7559,2024-08-16,inativo,Premium,8
+57,Ravy Garcia,61 9383 6271,2023-08-29,inativo,Intermediário,19
+58,Gabrielly Gonçalves,(071) 4728 2071,2023-05-31,ativo,Familiar,22
+59,Nicole Novaes,+55 84 9344-0565,2024-09-15,inativo,Premium,7
+60,Henry Araújo,+55 (081) 5848-7286,2024-05-25,inativo,Premium,10
+61,Sra. Bianca Duarte,+55 71 5903-7285,2024-04-07,ativo,Intermediário,12
+62,Maitê Farias,+55 31 3491 9131,2023-12-10,inativo,Intermediário,16
+63,Yasmin Sampaio,(031) 9648-2900,2023-06-24,ativo,Premium,22
+64,Ágatha das Neves,0300-012-8381,2024-01-05,inativo,Familiar,15
+65,Julia da Luz,61 0282 3597,2023-09-27,ativo,Premium,18
+66,Nina Silveira,0900 720 5040,2023-08-25,ativo,Familiar,20
+67,Helena Alves,31 9972-0117,2024-02-09,inativo,Intermediário,14
+68,Valentina Santos,(031) 7264-7011,2025-03-10,inativo,Intermediário,1
+69,Mathias Macedo,+55 71 2968 9875,2024-09-28,ativo,Familiar,6
+70,João Porto,0800-256-9222,2023-10-05,inativo,Premium,18
+71,Stephany Andrade,+55 31 3526 4083,2024-04-06,inativo,Familiar,12
+72,Asafe Vieira,21 0526 2051,2024-06-08,ativo,Familiar,10
+73,Sophie Marques,+55 61 1761-0183,2024-05-24,inativo,Familiar,10
+74,Sofia Moreira,(041) 0549-1399,2024-07-31,ativo,Intermediário,8
+75,Luigi da Cruz,(084) 4048 9256,2025-01-30,ativo,Básico,2
+76,Natália Sampaio,+55 (051) 8588 4484,2025-02-12,ativo,Básico,2
+77,Luiz Miguel da Rocha,(084) 8553-5188,2023-12-10,ativo,Premium,16
+78,Maria Isis Lima,+55 84 7168-1016,2024-01-18,ativo,Familiar,15
+79,Isaac Nogueira,+55 (071) 5105 8151,2023-05-07,ativo,Intermediário,23
+80,João Miguel Costa,61 1811-7183,2023-10-25,ativo,Premium,17
+81,Paulo Moraes,+55 (031) 0988 4541,2024-12-05,ativo,Básico,4
+82,Gabrielly Cunha,41 5547 5564,2024-04-01,inativo,Premium,12
+83,Valentim Almeida,(071) 8219 0392,2024-02-16,ativo,Familiar,14
+84,Bernardo Guerra,71 7771-2654,2023-07-18,inativo,Familiar,21
+85,Lucas Gabriel Fogaça,71 7975-5418,2025-03-28,ativo,Familiar,0
+86,Alexia da Luz,21 3333-6339,2024-07-11,ativo,Familiar,9
+87,Josué Lopes,0900 192 9527,2023-10-02,inativo,Intermediário,18
+88,Clarice Guerra,+55 71 4248-4796,2023-05-28,inativo,Premium,22
+89,Calebe Ferreira,(081) 2686 6984,2024-06-06,inativo,Familiar,10
+90,Luara Silva,+55 (011) 9837-1963,2024-04-29,inativo,Intermediário,11
+91,Felipe Pires,+55 51 1484 7719,2024-02-25,inativo,Intermediário,13
+92,Anna Liz Fonseca,21 7815 8923,2024-11-13,inativo,Intermediário,5
+93,Leonardo Silveira,+55 41 4182 0872,2025-03-11,ativo,Premium,1
+94,Vitor Hugo Cunha,(084) 7113-3148,2025-03-03,inativo,Familiar,1
+95,Mathias Peixoto,71 9433-7954,2024-06-07,ativo,Familiar,10
+96,Isabela Dias,21 6523 6424,2023-10-14,ativo,Premium,18
+97,Manuella Santos,(021) 8832 0726,2023-10-29,ativo,Premium,17
+98,Liz Montenegro,(084) 7250 9016,2024-09-12,inativo,Familiar,7
+99,João Guilherme Farias,84 5548 3278,2023-10-22,inativo,Premium,18
+100,Dr. João Miguel da Rosa,21 9874 9949,2023-07-18,ativo,Premium,21
+101,Isabel Brito,21 7180-4441,2024-06-03,inativo,Básico,10
+102,Antônio Câmara,(061) 5517 2562,2023-09-01,inativo,Básico,19
+103,Apollo Nunes,+55 (041) 1619-3293,2023-10-16,inativo,Premium,18
+104,Luan Viana,41 2196 4642,2025-04-02,ativo,Básico,0
+105,Luigi Duarte,0800 791 5790,2023-11-27,inativo,Intermediário,16
+106,Miguel Peixoto,(061) 0921 2284,2023-04-16,inativo,Familiar,24
+107,João Vitor Casa Grande,0800 611 6900,2024-11-11,inativo,Premium,5
+108,Maria Julia Guerra,+55 81 5552-5959,2023-07-28,ativo,Intermediário,20
+109,Sr. Igor Aparecida,(084) 7624-5390,2024-01-11,ativo,Intermediário,15
+110,Rafaela Duarte,+55 11 7242 1679,2024-12-04,inativo,Intermediário,4
+111,Maria Eduarda da Luz,+55 61 7057-5814,2024-07-08,inativo,Familiar,9
+112,Nicolas Mendonça,(051) 7743 4231,2023-10-28,inativo,Familiar,17
+113,Leonardo Brito,31 3689-7822,2025-02-10,inativo,Intermediário,2
+114,Paulo Moraes,(071) 4051 2143,2023-05-22,ativo,Premium,23
+115,Luiz Otávio Peixoto,+55 31 2949-3350,2023-11-15,inativo,Básico,17
+116,Isaac Barros,41 0345 0628,2024-05-21,ativo,Familiar,11
+117,Luigi Nunes,(081) 0444 5814,2024-08-12,inativo,Familiar,8
+118,Otto Jesus,(061) 7272 4569,2023-11-22,inativo,Intermediário,17
+119,Enzo Câmara,51 3122 2725,2024-05-08,inativo,Familiar,11
+120,Sophie Abreu,(071) 5430 9787,2023-10-21,inativo,Intermediário,18
+121,Nicole Brito,+55 (021) 8587-1018,2024-08-26,inativo,Intermediário,7
+122,Benjamim Pimenta,0800 092 6141,2024-03-16,ativo,Premium,13
+123,Daniel Montenegro,71 3929 0399,2024-03-12,ativo,Intermediário,13
+124,Théo Pacheco,31 3381 2192,2024-12-26,inativo,Intermediário,3
+125,Vitor Hugo Aragão,(031) 9970 0701,2023-12-12,inativo,Básico,16
+126,Lívia da Luz,+55 (021) 1021 2733,2024-09-21,ativo,Premium,6
+127,Dr. Oliver das Neves,+55 84 1358 6982,2025-01-30,ativo,Básico,2
+128,Vitor Casa Grande,84 4335-6630,2024-11-02,inativo,Premium,5
+129,Mathias Pacheco,51 1275 3888,2024-05-15,inativo,Premium,11
+130,Cauê da Conceição,+55 21 2419 3497,2024-11-20,inativo,Familiar,4
+131,Isabela Castro,(084) 5432 1790,2024-07-01,inativo,Premium,9
+132,Maria Eduarda da Cruz,11 1480-8249,2024-06-19,ativo,Básico,10
+133,Luísa Oliveira,21 8528-4697,2024-07-27,ativo,Premium,8
+134,Aurora Correia,51 4183 6685,2023-09-23,inativo,Básico,19
+135,Dra. Hellena Azevedo,71 7096-1986,2023-12-09,ativo,Intermediário,16
+136,Gabrielly da Rocha,+55 (081) 7557 7110,2023-06-03,ativo,Básico,22
+137,Cauã Costa,(061) 8049 6327,2024-07-12,ativo,Familiar,9
+138,Gael Porto,11 6367-1369,2024-03-03,ativo,Premium,13
+139,Sr. Vitor Hugo Pimenta,11 3187 3744,2023-07-21,inativo,Familiar,21
+140,Natália Pimenta,+55 81 9103 8888,2023-07-20,inativo,Premium,21
+141,Emanuelly Nogueira,+55 11 3426 1598,2024-10-09,ativo,Premium,6
+142,Arthur Gabriel Pereira,(061) 3287-1835,2024-09-01,inativo,Intermediário,7
+143,João Felipe Costela,+55 (061) 6416 7376,2023-11-11,ativo,Familiar,17
+144,Vitor das Neves,81 3960 6339,2025-04-01,ativo,Básico,0
+145,Aurora Montenegro,0900 115 0109,2023-11-24,ativo,Premium,16
+146,Luiz Gustavo da Rosa,+55 (071) 2324-3289,2023-10-08,inativo,Premium,18
+147,Sr. Oliver da Luz,+55 51 7499 2308,2023-05-22,ativo,Básico,23
+148,Luiz Gustavo Pastor,0300 901 3364,2023-06-12,ativo,Básico,22
+149,Daniel Martins,+55 (061) 7798-6548,2025-03-07,inativo,Intermediário,1
+150,Oliver Gonçalves,21 5239-8250,2024-12-20,inativo,Básico,3
+151,Dra. Stella Guerra,(041) 3446-6331,2023-09-30,inativo,Intermediário,18
+152,Josué Camargo,+55 11 4153 5082,2023-07-16,ativo,Básico,21
+153,Srta. Marina da Rocha,81 0498 2991,2025-03-06,inativo,Familiar,1
+154,Joaquim Cardoso,+55 81 8691-3560,2024-10-16,inativo,Premium,6
+155,Pedro Caldeira,+55 61 3148 7881,2024-01-16,inativo,Intermediário,15
+156,Maria Helena da Conceição,0800-490-7183,2024-06-12,inativo,Familiar,10
+157,Stella Rodrigues,41 1063-3227,2023-09-14,ativo,Básico,19
+158,Benjamim Ferreira,21 4534-9586,2023-08-20,ativo,Intermediário,20
+159,Asafe Costa,61 1695-4296,2024-10-03,ativo,Intermediário,6
+160,Olivia Novaes,+55 (081) 1938 1942,2024-05-22,ativo,Intermediário,10
+161,Ravy Aragão,+55 (081) 8565 0172,2025-01-06,ativo,Premium,3
+162,Luísa Leão,+55 (061) 8866-6982,2025-04-12,inativo,Familiar,0
+163,Maitê Pimenta,+55 (071) 2043 5970,2024-05-26,ativo,Básico,10
+164,Gustavo Henrique Costa,+55 31 5120-8089,2025-03-21,inativo,Premium,0
+165,Dra. Larissa Viana,+55 41 4456-6813,2024-10-20,ativo,Intermediário,5
+166,Sr. Enzo Gabriel Barros,(071) 7151 8792,2024-01-30,ativo,Familiar,14
+167,Kaique Correia,84 5429 5336,2024-03-28,ativo,Familiar,12
+168,Sr. Gustavo Henrique Cunha,(071) 8772 4300,2024-04-26,ativo,Familiar,11
+169,Gael Almeida,0500-072-7828,2024-12-12,inativo,Familiar,4
+170,Thiago Carvalho,+55 41 3017-8709,2023-05-05,ativo,Familiar,23
+171,João Felipe Araújo,(011) 7757-5481,2024-07-29,inativo,Familiar,8
+172,Cecília Machado,+55 84 2595-5018,2023-11-12,ativo,Básico,17
+173,Cauê Moreira,+55 21 2478 8908,2024-09-15,ativo,Premium,7
+174,Melina Souza,(021) 5909-3555,2024-02-16,ativo,Familiar,14
+175,Mariana Viana,0300 071 8976,2024-04-04,inativo,Familiar,12
+176,Dr. Guilherme da Luz,41 2535-0927,2024-04-23,ativo,Premium,11
+177,Bárbara Monteiro,+55 (021) 8899 1711,2024-01-14,inativo,Básico,15
+178,Luigi da Mata,+55 (011) 6245 2816,2025-02-22,inativo,Premium,1
+179,Maitê Araújo,+55 51 2845 0091,2024-05-05,inativo,Premium,11
+180,Dr. Enrico Aparecida,31 8143 3536,2024-12-18,ativo,Intermediário,3
+181,Sr. Levi Viana,+55 81 0759-7566,2025-01-15,inativo,Intermediário,3
+182,Sra. Alícia Rezende,0500-581-0048,2024-01-19,inativo,Premium,15
+183,Josué Monteiro,+55 84 9598 3668,2025-01-27,inativo,Premium,2
+184,Aylla Cardoso,+55 21 8995-5384,2023-05-22,ativo,Intermediário,23
+185,Leandro Cirino,+55 81 9994 6300,2023-08-03,ativo,Intermediário,20
+186,Sr. Léo Câmara,11 5314-8175,2023-04-16,inativo,Intermediário,24
+187,Stephany Vasconcelos,11 8612 6922,2024-11-30,inativo,Básico,4
+188,Dra. Letícia das Neves,11 7464-0637,2024-11-06,inativo,Básico,5
+189,Maitê Leão,+55 (061) 5446 5995,2023-12-04,inativo,Intermediário,16
+190,Asafe Carvalho,+55 71 8023-9168,2025-04-07,ativo,Premium,0
+191,Luna Novais,+55 61 1167-0923,2023-11-13,inativo,Intermediário,17
+192,Dom Farias,(021) 2648 8463,2025-02-02,inativo,Básico,2
+193,Ana Beatriz Nogueira,71 1453 8536,2025-03-18,inativo,Básico,0
+194,Sr. Bryan Teixeira,51 4601 1673,2025-01-08,ativo,Intermediário,3
+195,Amanda Machado,(021) 6253 4020,2024-03-11,inativo,Familiar,13
+196,Ana Clara Machado,+55 41 4772-4977,2025-02-14,inativo,Familiar,2
+197,Srta. Maya da Mota,0800 112 9929,2025-03-27,ativo,Básico,0
+198,Yago Fernandes,41 4360-4795,2024-09-12,ativo,Familiar,7
+199,Sabrina Souza,+55 81 1314 7148,2024-09-01,ativo,Básico,7
+200,Liam Almeida,0300 926 6787,2025-02-08,inativo,Familiar,2
+201,Valentim Aparecida,+55 (031) 3727 3820,2023-09-03,inativo,Familiar,19
+202,Davi Lucas da Rosa,+55 (084) 4020 1939,2024-01-07,ativo,Premium,15
+203,Luísa Teixeira,61 1479-2656,2024-05-09,inativo,Familiar,11
+204,Daniel Silva,+55 31 3106 4183,2024-10-15,ativo,Premium,6
+205,Manuela da Mata,61 2989 0986,2025-01-16,inativo,Familiar,3
+206,Ana Vitória Dias,+55 (071) 1446-2724,2024-02-04,inativo,Básico,14
+207,Kaique Peixoto,+55 41 9571-1851,2024-11-08,ativo,Familiar,5
+208,Theo Castro,84 4979-9537,2024-11-17,inativo,Premium,5
+209,Dra. Raquel Pereira,(021) 6018-9579,2024-05-14,inativo,Premium,11
+210,Gustavo Henrique Farias,+55 81 1333-5448,2024-01-31,ativo,Intermediário,14
+211,Maria Cecília Vasconcelos,(011) 6739 8473,2023-08-20,inativo,Premium,20
+212,Aurora da Luz,81 1179-2227,2024-04-17,ativo,Básico,12
+213,Dr. Apollo Brito,21 4164 1549,2024-01-09,inativo,Básico,15
+214,Leonardo Sampaio,+55 11 0071-7615,2023-07-17,ativo,Intermediário,21
+215,Henry Macedo,(051) 3501-0754,2023-10-13,ativo,Básico,18
+216,Nicolas Mendonça,(041) 0756-2893,2023-11-07,inativo,Básico,17
+217,Maria Laura Ferreira,+55 (021) 2215-8710,2025-03-22,inativo,Premium,0
+218,Kaique Rodrigues,41 6151-6574,2023-12-23,inativo,Básico,16
+219,Vitor Gabriel Almeida,+55 (061) 5659-6866,2024-12-24,inativo,Premium,3
+220,João Guilherme Novaes,31 7870 6236,2025-01-22,ativo,Familiar,2
+221,Isaac da Cruz,+55 31 3241 8621,2023-04-23,inativo,Intermediário,24
+222,Ravi Lucca Ferreira,84 0412 5472,2023-09-06,ativo,Familiar,19
+223,Zoe Freitas,71 9093-8654,2024-03-02,ativo,Premium,13
+224,Maria Alice Araújo,+55 (061) 4245-9355,2023-11-14,ativo,Premium,17
+225,Lívia Ferreira,+55 (011) 3179 7519,2024-04-26,ativo,Familiar,11
+226,Maria Liz Fonseca,+55 21 7400 8462,2024-02-08,ativo,Premium,14
+227,Bruna Garcia,84 2679-4068,2025-02-09,ativo,Premium,2
+228,Fernanda Souza,+55 (084) 5241-2337,2024-04-23,inativo,Familiar,11
+229,Sr. Leandro Peixoto,+55 (071) 0289 0946,2023-06-18,inativo,Familiar,22
+230,Caleb Alves,+55 31 2461 2024,2024-09-09,ativo,Familiar,7
+231,Manuela Cassiano,61 9011-5413,2025-02-22,ativo,Intermediário,1
+232,Liam Souza,(011) 8909 4819,2024-04-03,inativo,Familiar,12
+233,Sra. Cecilia Nascimento,31 4893 5179,2025-01-25,inativo,Familiar,2
+234,Nathan Teixeira,+55 61 9198 7624,2023-08-25,ativo,Intermediário,20
+235,Mathias Farias,51 8694 9551,2025-02-23,inativo,Básico,1
+236,Eloá da Mata,+55 (051) 3353-2569,2023-09-21,inativo,Familiar,19
+237,Miguel Leão,+55 (011) 6706-0452,2024-04-03,ativo,Familiar,12
+238,Sr. Gael Macedo,+55 11 3317-2221,2024-08-29,ativo,Básico,7
+239,Agatha Jesus,(031) 6708-9681,2025-03-28,inativo,Premium,0
+240,Sra. Luana Cassiano,21 6786 9297,2024-09-12,inativo,Premium,7
+241,Maria Laura Camargo,51 1542 8261,2024-06-07,ativo,Intermediário,10
+242,Eloah Macedo,+55 (041) 6623 0033,2023-10-26,inativo,Familiar,17
+243,Sra. Nina Pereira,(081) 8776-7560,2024-04-18,inativo,Básico,12
+244,Ana Liz Gonçalves,+55 31 5660-2193,2023-11-27,inativo,Básico,16
+245,Srta. Ana Sophia Duarte,(084) 1925-1942,2023-06-11,inativo,Familiar,22
+246,Isabel Dias,(031) 5823-3319,2024-10-15,inativo,Intermediário,6
+247,Yan Campos,+55 51 2965 1428,2025-04-03,ativo,Familiar,0
+248,Isis Duarte,+55 61 2943 2734,2025-01-10,ativo,Familiar,3
+249,Pedro Miguel Novais,0500 641 8864,2023-08-28,inativo,Básico,19
+250,Sra. Letícia Macedo,+55 61 1580 8608,2024-05-09,ativo,Familiar,11
+251,Maria Isis Moreira,81 9110-9064,2023-12-10,inativo,Premium,16
+252,Dr. Thales Pimenta,0300 175 7380,2023-07-18,inativo,Familiar,21
+253,Dra. Yasmin Macedo,0500-427-7182,2024-12-12,ativo,Familiar,4
+254,Sr. Kaique Dias,+55 (081) 4451-7890,2024-05-23,inativo,Básico,10
+255,Maria Júlia Macedo,+55 21 6018-2739,2025-03-02,inativo,Básico,1
+256,Sra. Sophia Correia,(021) 9107-0766,2024-05-24,ativo,Intermediário,10
+257,Emanuella Barros,+55 81 3770 3669,2023-06-04,inativo,Familiar,22
+258,Maria Luísa Freitas,(021) 1854-0659,2025-03-31,inativo,Intermediário,0
+259,Srta. Lorena da Mata,0300 844 8735,2024-06-07,ativo,Familiar,10
+260,Cecilia Vargas,61 3918-2564,2024-05-24,ativo,Familiar,10
+261,Asafe Machado,51 9492 6397,2024-07-08,ativo,Premium,9
+262,Maria Fonseca,0300-517-9632,2024-10-01,inativo,Intermediário,6
+263,Dr. Daniel Cavalcanti,+55 (041) 6008 7550,2023-07-27,ativo,Intermediário,20
+264,Gabriela Porto,+55 84 6673 7992,2025-01-28,ativo,Básico,2
+265,Emanuella Cassiano,(021) 6921 8969,2024-06-17,inativo,Intermediário,10
+266,Ana Júlia Martins,0300-475-0330,2024-01-13,ativo,Intermediário,15
+267,Calebe Silveira,21 9239-1843,2023-05-21,ativo,Premium,23
+268,Stella Viana,71 2936 0335,2024-05-12,inativo,Intermediário,11
+269,Emanuella Correia,+55 61 2855 1856,2025-04-15,ativo,Intermediário,0
+270,Anna Liz da Cunha,(051) 1222-2138,2023-07-22,inativo,Básico,21
+271,Sabrina Azevedo,+55 (084) 7420 9488,2024-09-18,ativo,Familiar,7
+272,Dra. Gabriela Cunha,+55 81 5228 0832,2024-10-01,inativo,Intermediário,6
+273,Isabella Machado,(021) 8783 9519,2023-10-31,ativo,Familiar,17
+274,Isaque da Luz,51 6219 3134,2024-06-27,ativo,Premium,9
+275,Milena Machado,21 6312-0302,2024-04-19,ativo,Premium,12
+276,Manuella Nascimento,0800-103-6082,2024-09-04,ativo,Intermediário,7
+277,Cecília Freitas,+55 (081) 2829-7196,2025-01-11,inativo,Básico,3
+278,José Farias,+55 (031) 5070-3633,2024-08-23,ativo,Intermediário,7
+279,Arthur Miguel Aragão,+55 (051) 8900-8789,2024-12-24,ativo,Premium,3
+280,Marcos Vinicius Abreu,+55 (084) 7522 7000,2023-06-28,inativo,Premium,21
+281,Emanuel da Mota,11 2048-4981,2024-09-16,ativo,Familiar,7
+282,Gabrielly Carvalho,41 2750 1322,2023-07-18,ativo,Familiar,21
+283,Marcelo Borges,+55 (061) 3265 8028,2024-11-23,inativo,Intermediário,4
+284,Vitor Costela,(041) 3870-5873,2023-08-17,ativo,Familiar,20
+285,Dra. Liz Santos,31 9258 7504,2024-05-24,ativo,Intermediário,10
+286,Isadora Montenegro,+55 11 3592 8652,2024-01-12,inativo,Básico,15
+287,Murilo Sousa,0500 460 8494,2023-12-23,ativo,Intermediário,16
+288,Davi Lucas Pastor,(061) 7001 2606,2023-10-31,ativo,Familiar,17
+289,Ryan Vargas,81 6605-3518,2024-09-27,inativo,Intermediário,6
+290,Kaique Monteiro,0800 123 5991,2024-05-10,inativo,Intermediário,11
+291,Sofia Costela,61 4072-8802,2023-05-12,ativo,Básico,23
+292,Melina Rios,(021) 0731-9998,2024-04-24,inativo,Premium,11
+293,Dr. Luiz Miguel Vargas,(061) 5347 0633,2023-12-25,inativo,Premium,15
+294,Luiz Gustavo Ramos,+55 21 8902-3118,2023-05-03,inativo,Básico,23
+295,Bruna da Paz,31 2562 2917,2023-08-15,ativo,Básico,20
+296,Davi Luiz Araújo,(084) 0393-9878,2023-11-08,inativo,Intermediário,17
+297,Bianca Caldeira,81 5387-1172,2023-11-10,inativo,Intermediário,17
+298,Camila Novaes,+55 21 4583-8476,2023-08-15,ativo,Intermediário,20
+299,Henry Cavalcanti,+55 (081) 0268 2692,2025-02-01,inativo,Premium,2
+300,Luiz Felipe Duarte,+55 (051) 8124 1640,2024-11-30,inativo,Intermediário,4
+301,Ravy Rodrigues,+55 (084) 6037 6320,2024-05-29,inativo,Familiar,10
+302,Ian Machado,+55 11 5095-3549,2024-09-13,inativo,Familiar,7
+303,Dom Pereira,+55 81 4434 3313,2024-07-18,inativo,Intermediário,9
+304,Apollo Almeida,+55 11 7669-4141,2024-05-18,inativo,Premium,11
+305,Luana Gonçalves,+55 61 0885-4791,2023-07-25,ativo,Familiar,21
+306,Pedro Lucas Moreira,84 3935 3397,2024-12-14,ativo,Básico,4
+307,Francisco Abreu,+55 (051) 9808 9513,2024-02-03,inativo,Básico,14
+308,Sr. Calebe Sales,(061) 9962-5559,2024-07-09,inativo,Básico,9
+309,Larissa Mendonça,51 7319 7616,2025-02-03,ativo,Familiar,2
+310,Sr. Nicolas Araújo,+55 (071) 4331-6584,2024-06-16,ativo,Premium,10
+311,João Guilherme da Rosa,+55 (061) 2599-8942,2023-09-05,inativo,Familiar,19
+312,Yan Cunha,41 8602 7292,2023-06-12,inativo,Básico,22
+313,Melina Correia,(071) 0007 8328,2023-09-30,inativo,Familiar,18
+314,Ana Laura Silveira,(031) 2732 3140,2023-11-03,ativo,Básico,17
+315,Gabriel Oliveira,+55 (041) 4063-6768,2023-09-06,inativo,Familiar,19
+316,Lorenzo Almeida,0500-578-5071,2024-03-03,inativo,Intermediário,13
+317,Sra. Beatriz das Neves,+55 31 9395-8404,2024-05-29,ativo,Premium,10
+318,Vicente Costa,+55 51 9396 4194,2025-01-06,ativo,Intermediário,3
+319,Valentina Vargas,84 7897-8528,2025-02-02,inativo,Familiar,2
+320,Dra. Lorena Moreira,41 3717-0375,2023-11-25,ativo,Premium,16
+321,Diogo Gonçalves,84 4872-8414,2025-03-08,ativo,Intermediário,1
+322,Ana Clara Pimenta,+55 81 4077 4759,2024-03-02,ativo,Familiar,13
+323,Ana Lívia Rodrigues,84 8947-8579,2023-09-19,ativo,Familiar,19
+324,Raul Cavalcante,(061) 6267-9286,2025-03-30,ativo,Básico,0
+325,Ester Nascimento,+55 51 7490 7315,2023-08-09,ativo,Intermediário,20
+326,Maria Laura Casa Grande,0800-081-9869,2025-03-27,inativo,Intermediário,0
+327,Levi Freitas,41 7104 4592,2023-11-23,inativo,Básico,17
+328,Dr. João Miguel Silveira,(081) 8054-5072,2025-03-21,inativo,Intermediário,0
+329,João Miguel da Mota,0500 945 7508,2024-11-13,ativo,Premium,5
+330,Carlos Eduardo Silva,+55 (031) 2008 9935,2024-10-25,inativo,Premium,5
+331,Nathan Rezende,84 7641 5899,2025-02-08,ativo,Familiar,2
+332,Calebe Vargas,21 2322-9157,2023-04-19,ativo,Familiar,24
+333,Vitória Silveira,+55 11 2250 3076,2023-07-20,inativo,Intermediário,21
+334,Augusto da Cruz,51 9885 2839,2024-09-24,inativo,Básico,6
+335,Maria Liz Fogaça,11 9502 0698,2023-05-13,inativo,Familiar,23
+336,Sra. Laura Sousa,(051) 3646-9214,2023-11-24,inativo,Premium,16
+337,Letícia Machado,0800 246 3460,2024-10-12,inativo,Intermediário,6
+338,Bianca Nascimento,+55 31 7757-4217,2024-07-27,ativo,Intermediário,8
+339,Liam da Mata,+55 41 0970-7276,2023-09-27,ativo,Intermediário,18
+340,Dr. Gael Henrique Silva,(061) 1666-8906,2023-05-18,ativo,Familiar,23
+341,Ana Liz Caldeira,21 1341 5169,2025-01-24,inativo,Premium,2
+342,Maya Ramos,+55 31 3443-5893,2023-05-21,ativo,Intermediário,23
+343,Ryan da Costa,+55 41 7134 0915,2023-05-20,inativo,Intermediário,23
+344,Evelyn Vargas,+55 (011) 8357-7512,2025-02-09,inativo,Premium,2
+345,Sra. Juliana Camargo,81 3999 2209,2023-11-19,inativo,Premium,17
+346,Vitor Hugo Monteiro,+55 (081) 6593 9002,2023-05-13,inativo,Intermediário,23
+347,Nina da Rocha,+55 (031) 7257-2082,2023-12-03,inativo,Familiar,16
+348,Pedro Lucas Casa Grande,41 8471-2176,2024-11-22,inativo,Familiar,4
+349,Daniel Novaes,81 7327-1333,2025-01-01,inativo,Básico,3
+350,Rodrigo Fogaça,0900 171 5167,2024-02-06,inativo,Intermediário,14
+351,Luiz Miguel Sá,(061) 3498 6513,2024-06-15,inativo,Premium,10
+352,Luiz Miguel da Rocha,41 1511 5609,2024-02-02,inativo,Básico,14
+353,Giovanna Machado,0800 725 6759,2025-04-03,ativo,Intermediário,0
+354,Mirella Souza,+55 84 3151-2597,2025-04-08,inativo,Intermediário,0
+355,Daniel Costela,(061) 5511-8477,2024-12-15,ativo,Básico,4
+356,Benjamin Andrade,+55 81 7952 6973,2024-01-05,ativo,Intermediário,15
+357,Maria Alice Câmara,0500-395-5663,2023-07-15,inativo,Intermediário,21
+358,João Pedro da Rocha,+55 (061) 7569-5281,2023-05-20,inativo,Familiar,23
+359,Dra. Maria Cecília Ribeiro,31 9612 4768,2023-07-13,ativo,Básico,21
+360,Mirella Moraes,0800-728-2527,2023-12-06,ativo,Intermediário,16
+361,Eduardo Nascimento,11 4686-5958,2025-04-01,ativo,Intermediário,0
+362,Maria Alice Peixoto,+55 (041) 5447-5198,2024-12-13,ativo,Premium,4
+363,Henry Teixeira,+55 (041) 8967-2013,2024-08-16,ativo,Intermediário,8
+364,Maya Câmara,+55 (071) 4620 6821,2025-02-27,ativo,Premium,1
+365,Laura da Rocha,+55 84 5843-0670,2023-12-26,inativo,Familiar,15
+366,Gustavo Lima,0800-702-5263,2024-02-07,inativo,Familiar,14
+367,Maria Luiza Costela,0500-452-4620,2023-06-22,ativo,Familiar,22
+368,Otávio Carvalho,(084) 8847 2299,2024-11-03,inativo,Intermediário,5
+369,Renan Costela,71 6149-6947,2023-08-23,inativo,Premium,20
+370,Elisa Guerra,(011) 0243 8183,2025-02-28,inativo,Familiar,1
+371,Ester Novais,84 3698 9790,2023-12-28,inativo,Intermediário,15
+372,Ana Lívia da Rosa,(061) 2174 1611,2025-01-12,inativo,Familiar,3
+373,Guilherme Siqueira,0800 460 4901,2023-06-11,inativo,Familiar,22
+374,Ravi Lucca Cavalcante,+55 61 5650 7991,2024-03-30,ativo,Básico,12
+375,Ísis da Rocha,(051) 1311 3953,2023-07-30,ativo,Intermediário,20
+376,João Felipe da Mata,41 7785 4234,2024-04-02,ativo,Premium,12
+377,Kamilly Leão,(051) 5855 7643,2024-05-08,ativo,Intermediário,11
+378,Francisco Sales,+55 (051) 5739-4365,2024-05-05,inativo,Básico,11
+379,Emilly da Luz,+55 (041) 4517 1202,2024-09-15,ativo,Premium,7
+380,Isabel da Mota,21 5030 7356,2024-04-11,ativo,Familiar,12
+381,Ana Beatriz Ferreira,71 4505-6468,2024-09-04,ativo,Premium,7
+382,Léo da Costa,+55 (011) 0391 4617,2025-01-04,ativo,Básico,3
+383,Dra. Emanuella Lopes,+55 81 1731-6113,2024-12-27,ativo,Premium,3
+384,Luiza Leão,(041) 1614-8950,2024-11-05,inativo,Premium,5
+385,Lorenzo da Cruz,0500 846 4872,2024-03-23,inativo,Intermediário,12
+386,Dra. Gabriela Albuquerque,(041) 2370 6210,2025-01-15,inativo,Básico,3
+387,Maria Luísa Dias,0900 259 4844,2024-12-17,inativo,Premium,4
+388,Sra. Maria Luísa Mendes,11 3880-5036,2025-03-12,ativo,Intermediário,1
+389,Srta. Sabrina Camargo,0800 245 1049,2024-05-02,ativo,Básico,11
+390,Ravi Lucca Jesus,+55 (011) 5639-4149,2024-06-06,inativo,Intermediário,10
+391,Juliana Siqueira,0800 310 8129,2024-05-30,inativo,Básico,10
+392,Ana Liz Montenegro,71 2596-0454,2023-04-22,ativo,Familiar,24
+393,Mariane da Mota,+55 (081) 7764 4731,2024-03-01,inativo,Premium,13
+394,Olivia Andrade,+55 61 5700 1748,2023-07-20,inativo,Intermediário,21
+395,Sra. Yasmin Montenegro,(081) 2137 4385,2025-01-14,inativo,Familiar,3
+396,Sr. Leandro Machado,+55 (031) 3428-8070,2024-03-02,inativo,Básico,13
+397,Luiz Otávio Pinto,+55 71 5283-1640,2023-12-02,ativo,Intermediário,16
+398,Pedro Henrique Abreu,+55 11 6329-2747,2024-09-17,ativo,Familiar,7
+399,Eduardo Viana,41 0786-5022,2024-06-06,inativo,Básico,10
+400,Breno Cardoso,+55 (084) 5709-1151,2024-07-25,ativo,Básico,8
+401,Pedro Henrique Gonçalves,(011) 3933 3699,2024-06-24,inativo,Básico,9
+402,Sr. Apollo Andrade,(051) 1790 5055,2024-12-16,ativo,Básico,4
+403,Helena Azevedo,+55 (011) 4650 8404,2024-12-02,ativo,Premium,4
+404,Raquel Abreu,(011) 3725-9020,2024-03-05,ativo,Premium,13
+405,Arthur Miguel Nunes,+55 (011) 1666-1282,2024-02-24,inativo,Básico,13
+406,Luan Lopes,+55 41 9161 3859,2024-03-18,ativo,Básico,13
+407,Bryan Fonseca,+55 11 5926 3482,2024-07-07,ativo,Familiar,9
+408,Gabriela Sampaio,(011) 2655-4382,2024-06-26,ativo,Básico,9
+409,Olivia Cavalcanti,0900-362-6265,2025-04-10,inativo,Familiar,0
+410,Emilly Aparecida,+55 (081) 4187-1253,2023-08-21,ativo,Intermediário,20
+411,Dom Casa Grande,(081) 3952-2083,2025-02-25,inativo,Básico,1
+412,Sr. Davi Lucca Ramos,+55 31 4954 9887,2024-03-18,inativo,Básico,13
+413,Ana Sophia Campos,+55 (041) 8816 4804,2025-02-02,ativo,Premium,2
+414,Sr. Benjamim da Luz,+55 (011) 5935 6743,2024-04-17,inativo,Intermediário,12
+415,Erick Cirino,(071) 6820 8890,2024-02-07,inativo,Intermediário,14
+416,Valentina Lima,0300 348 5167,2023-12-09,inativo,Familiar,16
+417,Isabel Rodrigues,+55 (011) 4890 8887,2024-01-24,inativo,Familiar,14
+418,Gael Henrique Sampaio,+55 (081) 3060 7877,2023-08-01,inativo,Premium,20
+419,Josué Viana,(081) 3944 3486,2024-02-29,ativo,Premium,13
+420,Rafaela Leão,+55 11 6584-2876,2024-12-24,ativo,Familiar,3
+421,Heitor da Rosa,41 4256-7369,2024-03-12,inativo,Intermediário,13
+422,Melina Moraes,61 9532 1646,2024-06-28,inativo,Familiar,9
+423,Srta. Brenda Cirino,51 8946 8226,2023-07-14,ativo,Familiar,21
+424,Maria Helena Pinto,+55 11 6486 6422,2024-06-11,inativo,Familiar,10
+425,Nina Mendonça,(011) 1437-1209,2024-09-15,inativo,Básico,7
+426,Juan Melo,(031) 9738 3219,2024-06-24,ativo,Premium,9
+427,Srta. Elisa Lima,81 8669 6485,2025-01-07,ativo,Familiar,3
+428,Leonardo Leão,+55 61 3323-3949,2024-05-02,inativo,Familiar,11
+429,Elisa Vieira,+55 61 6577-8822,2023-11-10,ativo,Básico,17
+430,Brayan Cavalcante,+55 (061) 9125 6945,2025-03-26,ativo,Premium,0
+431,Melina Araújo,21 7731 1810,2024-12-16,ativo,Premium,4
+432,Ryan da Rocha,+55 (031) 2112-3790,2023-11-06,ativo,Premium,17
+433,Sr. João Felipe da Luz,21 8956 7648,2025-03-14,inativo,Intermediário,1
+434,Marina Lima,+55 (061) 9663-1173,2024-11-28,ativo,Intermediário,4
+435,Dr. Lucas Gabriel Macedo,11 5662-3226,2024-10-22,ativo,Premium,5
+436,Alexia Cardoso,81 0654 0025,2023-08-13,inativo,Familiar,20
+437,Helena Alves,(021) 7313 8951,2023-06-30,inativo,Básico,21
+438,Dra. Maria Flor Aragão,+55 (031) 4902-0977,2024-11-11,ativo,Básico,5
+439,André da Paz,81 1291-3467,2023-09-16,inativo,Premium,19
+440,Srta. Clara Abreu,(041) 5241-9911,2023-05-12,ativo,Intermediário,23
+441,Srta. Ester da Costa,+55 61 7536 4354,2023-11-18,inativo,Familiar,17
+442,Rhavi Pires,+55 81 9859-0232,2023-09-26,inativo,Premium,18
+443,Otávio Andrade,0800-829-0322,2024-02-25,ativo,Familiar,13
+444,Heloísa Barbosa,+55 71 7837-3634,2023-07-01,inativo,Premium,21
+445,Daniela Melo,(071) 9333-4088,2024-08-08,ativo,Intermediário,8
+446,Benicio da Rosa,(031) 2123-8991,2024-06-27,ativo,Intermediário,9
+447,Cecilia Siqueira,+55 (051) 3297-0080,2023-06-17,inativo,Premium,22
+448,Sra. Alana Rodrigues,61 7357 5984,2024-12-24,inativo,Intermediário,3
+449,Theo Araújo,+55 61 7933-9084,2024-01-20,inativo,Familiar,15
+450,Emanuelly Jesus,+55 31 3643-6458,2024-01-15,ativo,Básico,15
+451,Dr. Rhavi Guerra,51 0720 0189,2024-08-22,inativo,Básico,7
+452,Sr. Otto Fogaça,+55 81 2079-1516,2024-05-25,ativo,Intermediário,10
+453,Srta. Cecilia Araújo,+55 11 9596 1321,2024-05-24,inativo,Básico,10
+454,Dr. Davi Miguel Silveira,(081) 9540 6499,2023-05-20,inativo,Básico,23
+455,Kevin da Costa,+55 51 6207 0194,2023-11-30,ativo,Premium,16
+456,Ana Julia Pinto,+55 84 1392-3923,2024-11-10,ativo,Intermediário,5
+457,Dr. Pedro Miguel Montenegro,+55 (061) 9654-6637,2023-07-22,inativo,Familiar,21
+458,Luiz Otávio Abreu,0500-366-0895,2023-07-09,inativo,Intermediário,21
+459,Rebeca Barbosa,+55 21 5353 9677,2024-01-03,ativo,Premium,15
+460,Sra. Hadassa Sousa,+55 (051) 7271 5028,2024-09-12,inativo,Básico,7
+461,Sofia Sousa,51 6233 3140,2024-04-18,inativo,Familiar,12
+462,Marcelo Abreu,+55 (011) 3059-9151,2023-09-08,ativo,Intermediário,19
+463,Dra. Catarina Cunha,41 5151-0406,2024-10-25,inativo,Familiar,5
+464,Bruno da Cruz,+55 (041) 7473-7943,2024-08-07,inativo,Familiar,8
+465,Emilly Costa,(071) 5195-0189,2024-10-17,ativo,Premium,6
+466,Valentina Cavalcanti,+55 71 3177 2720,2023-10-23,inativo,Familiar,18
+467,Bárbara Macedo,+55 (061) 5218 3151,2024-04-12,ativo,Premium,12
+468,Oliver Nascimento,21 9300-8722,2023-09-17,inativo,Intermediário,19
+469,Dr. Diego Correia,+55 (011) 9813-8250,2023-09-27,inativo,Premium,18
+470,Benjamin Borges,(071) 6974-0864,2023-09-16,inativo,Premium,19
+471,Davi Pereira,+55 (011) 9470 8018,2023-08-19,ativo,Premium,20
+472,Emanuella Ferreira,+55 (071) 7927 5292,2024-11-09,ativo,Premium,5
+473,Hellena Lima,+55 21 4531-0432,2024-02-26,inativo,Familiar,13
+474,Dra. Sabrina Carvalho,+55 (051) 6122-3927,2024-03-12,inativo,Familiar,13
+475,Maria Laura Mendes,+55 (031) 1233 4560,2023-12-28,inativo,Familiar,15
+476,Sra. Luna Machado,51 9134 8640,2025-02-26,inativo,Premium,1
+477,Benjamin Moreira,0300 572 2524,2024-09-01,ativo,Premium,7
+478,Luiz Miguel Alves,0900 377 5166,2023-10-09,inativo,Premium,18
+479,Erick Peixoto,0900 996 2669,2024-09-03,inativo,Familiar,7
+480,Dra. Bella Freitas,(084) 9112 9924,2023-10-20,inativo,Básico,18
+481,Ana Liz Ribeiro,+55 (031) 8656 7139,2025-02-15,ativo,Premium,2
+482,Sra. Bella Barbosa,31 1292-8253,2024-09-22,inativo,Intermediário,6
+483,Maitê Alves,(041) 4153 1211,2023-06-21,ativo,Intermediário,22
+484,Alana Fonseca,+55 21 2184 5813,2023-06-07,ativo,Intermediário,22
+485,Yago Rocha,+55 71 5318 0494,2024-03-30,inativo,Familiar,12
+486,Luiz Gustavo Pastor,+55 84 6952-1332,2024-04-28,inativo,Básico,11
+487,Rael Lopes,+55 31 7763 6262,2025-02-14,inativo,Familiar,2
+488,Joaquim Cunha,(021) 5137 1434,2024-08-02,inativo,Intermediário,8
+489,Ana Lívia Vieira,+55 51 4132 2198,2025-03-24,ativo,Básico,0
+490,Noah Pinto,+55 31 5993 3554,2024-04-24,ativo,Familiar,11
+491,Sr. Alexandre Vargas,(031) 8098 5622,2025-02-09,ativo,Básico,2
+492,Maria Fernanda Viana,+55 11 3377 5593,2024-01-13,ativo,Intermediário,15
+493,Caroline Cardoso,(061) 5193-7837,2023-11-06,ativo,Familiar,17
+494,Gustavo Henrique Rocha,(011) 2607-2462,2024-05-19,ativo,Familiar,11
+495,João Lucas Teixeira,+55 (031) 4913 6729,2023-08-04,inativo,Intermediário,20
+496,Sra. Bella Silveira,+55 (061) 7375-0350,2024-09-22,inativo,Básico,6
+497,Ana Laura Aragão,+55 (051) 8812-3637,2023-11-20,ativo,Intermediário,17
+498,Luna Brito,+55 (041) 7000 2920,2024-08-17,ativo,Básico,8
+499,Sophia Novais,+55 31 8486 6244,2025-02-19,inativo,Intermediário,1
+500,Gabriel Novaes,+55 41 4181 4884,2023-10-31,ativo,Premium,17

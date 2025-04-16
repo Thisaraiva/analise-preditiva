@@ -1,0 +1,4002 @@
+[
+    {
+        "id_cliente": 1,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-03-22T00:00:00Z",
+        "detalhes": "Magnam nostrum voluptate impedit.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 2,
+        "tipo_interacao": "elogio",
+        "data": "2024-08-20T00:00:00Z",
+        "detalhes": "Non reprehenderit aliquam explicabo nam.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 3,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-05-15T00:00:00Z",
+        "detalhes": "Dolorem veritatis dolore explicabo.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 4,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-10-31T00:00:00Z",
+        "detalhes": "Eos cumque numquam similique a doloribus quam.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 5,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-01-28T00:00:00Z",
+        "detalhes": "Vitae aliquam nam nostrum accusamus earum ab.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 6,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-11-17T00:00:00Z",
+        "detalhes": "Est cumque omnis laborum officia dolor earum modi.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 7,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-02-15T00:00:00Z",
+        "detalhes": "Tempora mollitia eos perspiciatis dolorum.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 8,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-05-18T00:00:00Z",
+        "detalhes": "Eligendi dolor asperiores itaque vel tenetur iste.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 9,
+        "tipo_interacao": "elogio",
+        "data": "2025-01-22T00:00:00Z",
+        "detalhes": "Ea sequi maiores laudantium.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 10,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-10-30T00:00:00Z",
+        "detalhes": "Non quaerat itaque repudiandae voluptatibus nisi.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 11,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-01-15T00:00:00Z",
+        "detalhes": "Incidunt esse temporibus libero enim.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 12,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-12-21T00:00:00Z",
+        "detalhes": "Voluptate assumenda itaque ipsum cum.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 13,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-12-20T00:00:00Z",
+        "detalhes": "Numquam dolorum saepe ullam.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 14,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-02-08T00:00:00Z",
+        "detalhes": "Repellendus blanditiis voluptas fugit accusamus eius cupiditate.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 15,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-02-10T00:00:00Z",
+        "detalhes": "Saepe dolorum ex autem eligendi quisquam.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 16,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-11-26T00:00:00Z",
+        "detalhes": "Illum repellat asperiores repudiandae ea architecto.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 17,
+        "tipo_interacao": "elogio",
+        "data": "2024-08-31T00:00:00Z",
+        "detalhes": "Tenetur eos aliquid maiores dolorem nesciunt.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 18,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-12-07T00:00:00Z",
+        "detalhes": "Iusto assumenda nisi unde dolor.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 19,
+        "tipo_interacao": "elogio",
+        "data": "2025-04-15T00:00:00Z",
+        "detalhes": "Accusamus voluptatum recusandae voluptatem illum amet facere nesciunt.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 20,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-22T00:00:00Z",
+        "detalhes": "Dolorem eos labore vel incidunt.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 21,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-01-19T00:00:00Z",
+        "detalhes": "Eveniet nihil possimus eius necessitatibus.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 22,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-11T00:00:00Z",
+        "detalhes": "Qui provident necessitatibus.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 23,
+        "tipo_interacao": "elogio",
+        "data": "2024-07-04T00:00:00Z",
+        "detalhes": "Tempore quidem architecto fuga natus.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 24,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-01-23T00:00:00Z",
+        "detalhes": "Tempore aut quae nobis.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 25,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-08-28T00:00:00Z",
+        "detalhes": "Error natus expedita unde.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 26,
+        "tipo_interacao": "elogio",
+        "data": "2024-10-04T00:00:00Z",
+        "detalhes": "Laborum voluptatum quae fugit.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 27,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-04-25T00:00:00Z",
+        "detalhes": "Laboriosam dolor impedit quaerat autem quo.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 28,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-01-05T00:00:00Z",
+        "detalhes": "Molestiae reprehenderit cumque omnis.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 29,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-03-06T00:00:00Z",
+        "detalhes": "Hic quibusdam maxime in.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 30,
+        "tipo_interacao": "elogio",
+        "data": "2024-04-22T00:00:00Z",
+        "detalhes": "Deleniti blanditiis odit facere nesciunt reiciendis dolore.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 31,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-06T00:00:00Z",
+        "detalhes": "Non dolor omnis maxime quae ut incidunt voluptas.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 32,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-12-28T00:00:00Z",
+        "detalhes": "Expedita praesentium quisquam velit doloribus quas perferendis molestias.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 33,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-02-18T00:00:00Z",
+        "detalhes": "Corrupti explicabo sint ipsam laborum a iste.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 34,
+        "tipo_interacao": "elogio",
+        "data": "2024-12-17T00:00:00Z",
+        "detalhes": "Sequi quo officia animi.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 35,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-01-10T00:00:00Z",
+        "detalhes": "Autem incidunt eos.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 36,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-02-27T00:00:00Z",
+        "detalhes": "Magnam odio nisi corrupti ipsa quibusdam aperiam.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 37,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-11-15T00:00:00Z",
+        "detalhes": "Nam velit optio ea.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 38,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-09-01T00:00:00Z",
+        "detalhes": "Autem atque ducimus maxime perferendis minima.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 39,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-10-26T00:00:00Z",
+        "detalhes": "Iste occaecati harum quasi possimus reiciendis nam.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 40,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-06-29T00:00:00Z",
+        "detalhes": "Quam natus aspernatur rem.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 41,
+        "tipo_interacao": "elogio",
+        "data": "2024-12-18T00:00:00Z",
+        "detalhes": "Eaque nostrum perferendis quia aut asperiores.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 42,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-06-16T00:00:00Z",
+        "detalhes": "Maxime maxime quam eius possimus cumque ullam.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 43,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-01-04T00:00:00Z",
+        "detalhes": "Rerum pariatur sint adipisci eaque.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 44,
+        "tipo_interacao": "elogio",
+        "data": "2024-09-01T00:00:00Z",
+        "detalhes": "Eos ad velit quo sunt repellat consequatur.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 45,
+        "tipo_interacao": "elogio",
+        "data": "2025-01-14T00:00:00Z",
+        "detalhes": "Nisi architecto accusantium impedit mollitia.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 46,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-22T00:00:00Z",
+        "detalhes": "Aliquid qui facilis odio.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 47,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-04-12T00:00:00Z",
+        "detalhes": "Minus quo nobis soluta enim.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 48,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-11-14T00:00:00Z",
+        "detalhes": "Ad laborum repudiandae earum sequi est.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 49,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-15T00:00:00Z",
+        "detalhes": "Dolorem voluptates consectetur dicta atque atque.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 50,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-07-10T00:00:00Z",
+        "detalhes": "Natus reprehenderit voluptatem quia eligendi nihil.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 51,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-03T00:00:00Z",
+        "detalhes": "Blanditiis delectus dolorum sunt ea ducimus ipsum.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 52,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-08T00:00:00Z",
+        "detalhes": "Dolorum sequi ab eveniet quam assumenda.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 53,
+        "tipo_interacao": "elogio",
+        "data": "2024-09-30T00:00:00Z",
+        "detalhes": "Quis eligendi occaecati odit illo quis esse.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 54,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-02-17T00:00:00Z",
+        "detalhes": "Corrupti ex exercitationem nulla cupiditate.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 55,
+        "tipo_interacao": "elogio",
+        "data": "2024-12-14T00:00:00Z",
+        "detalhes": "Fuga fugiat architecto nam ex molestiae.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 56,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-17T00:00:00Z",
+        "detalhes": "Reiciendis aperiam voluptas at quae distinctio.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 57,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-09-27T00:00:00Z",
+        "detalhes": "Pariatur quam sint consequatur rem architecto corrupti.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 58,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-02-21T00:00:00Z",
+        "detalhes": "Mollitia molestiae magnam cupiditate dignissimos.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 59,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-09-26T00:00:00Z",
+        "detalhes": "Totam pariatur veniam ipsum sit.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 60,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-04-25T00:00:00Z",
+        "detalhes": "Rerum laborum fuga voluptatem.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 61,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-14T00:00:00Z",
+        "detalhes": "Vero temporibus praesentium facere.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 62,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-07-27T00:00:00Z",
+        "detalhes": "Necessitatibus esse consectetur distinctio nemo nisi.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 63,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-05-31T00:00:00Z",
+        "detalhes": "Commodi recusandae aliquam quam recusandae voluptatum nam.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 64,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-06-12T00:00:00Z",
+        "detalhes": "Ducimus velit eveniet debitis pariatur nostrum asperiores odio.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 65,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-09-23T00:00:00Z",
+        "detalhes": "Consequatur perferendis eius praesentium odit.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 66,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-26T00:00:00Z",
+        "detalhes": "Saepe eligendi quo nihil nobis omnis minus.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 67,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-28T00:00:00Z",
+        "detalhes": "Deserunt nulla quae maxime sed.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 68,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-22T00:00:00Z",
+        "detalhes": "Nam unde culpa.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 69,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-12-31T00:00:00Z",
+        "detalhes": "Cupiditate eligendi unde aut labore unde.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 70,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-03-28T00:00:00Z",
+        "detalhes": "Itaque soluta animi temporibus.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 71,
+        "tipo_interacao": "elogio",
+        "data": "2024-07-29T00:00:00Z",
+        "detalhes": "Dolore voluptates quaerat laudantium in repellendus.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 72,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-10-12T00:00:00Z",
+        "detalhes": "Delectus delectus neque quisquam totam officia.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 73,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-12-06T00:00:00Z",
+        "detalhes": "Enim unde sit iusto facilis in.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 74,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-06-10T00:00:00Z",
+        "detalhes": "Atque libero laboriosam nemo similique laboriosam sed.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 75,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-01-26T00:00:00Z",
+        "detalhes": "Necessitatibus et deserunt accusamus molestiae.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 76,
+        "tipo_interacao": "elogio",
+        "data": "2024-07-22T00:00:00Z",
+        "detalhes": "Nemo doloremque officia dolore iste eos.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 77,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-02-20T00:00:00Z",
+        "detalhes": "Facilis laudantium porro sed voluptates.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 78,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-01-28T00:00:00Z",
+        "detalhes": "Officiis earum explicabo ipsum beatae dolor placeat.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 79,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-05T00:00:00Z",
+        "detalhes": "Iste natus consequuntur.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 80,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-10-02T00:00:00Z",
+        "detalhes": "Perspiciatis corrupti quisquam qui ipsa neque odit.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 81,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-12-23T00:00:00Z",
+        "detalhes": "Sequi magni alias sint.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 82,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-07-18T00:00:00Z",
+        "detalhes": "Corporis quas maiores vitae labore saepe.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 83,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-05-31T00:00:00Z",
+        "detalhes": "Sit eius vero rem repudiandae maiores.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 84,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-10T00:00:00Z",
+        "detalhes": "Culpa dolores similique omnis quasi soluta occaecati.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 85,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-29T00:00:00Z",
+        "detalhes": "Nam aliquid dolore animi culpa explicabo.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 86,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-01-29T00:00:00Z",
+        "detalhes": "Eveniet pariatur adipisci excepturi.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 87,
+        "tipo_interacao": "elogio",
+        "data": "2024-09-27T00:00:00Z",
+        "detalhes": "Sed repellat eos dolorem molestias nesciunt deleniti.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 88,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-11-19T00:00:00Z",
+        "detalhes": "Eius odio similique accusamus.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 89,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-12-29T00:00:00Z",
+        "detalhes": "Fugiat id placeat hic sed.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 90,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-02-16T00:00:00Z",
+        "detalhes": "Sed omnis nobis.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 91,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-09-13T00:00:00Z",
+        "detalhes": "Esse aliquid aliquam sequi deleniti.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 92,
+        "tipo_interacao": "elogio",
+        "data": "2024-07-03T00:00:00Z",
+        "detalhes": "Atque animi consequuntur est est.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 93,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-06-16T00:00:00Z",
+        "detalhes": "Tenetur consequatur consequatur omnis molestias sunt quos.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 94,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-01-10T00:00:00Z",
+        "detalhes": "Doloremque nisi sequi quos doloribus quos nesciunt.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 95,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-11-16T00:00:00Z",
+        "detalhes": "Possimus veniam iure voluptate numquam.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 96,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-06-19T00:00:00Z",
+        "detalhes": "At maxime repudiandae ipsum.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 97,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-11-05T00:00:00Z",
+        "detalhes": "Voluptatem recusandae doloribus expedita.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 98,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-01-26T00:00:00Z",
+        "detalhes": "Veniam asperiores illo illo.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 99,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-03-13T00:00:00Z",
+        "detalhes": "Quisquam rem esse accusamus atque.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 100,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-04-18T00:00:00Z",
+        "detalhes": "Nam eum vitae expedita ut fugiat.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 101,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-10-05T00:00:00Z",
+        "detalhes": "Quam dicta minima voluptates eaque quae voluptatibus.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 102,
+        "tipo_interacao": "elogio",
+        "data": "2024-12-12T00:00:00Z",
+        "detalhes": "Alias similique odit tempora nostrum soluta.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 103,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-10-05T00:00:00Z",
+        "detalhes": "Eius itaque aliquid iure quisquam minus.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 104,
+        "tipo_interacao": "elogio",
+        "data": "2024-12-16T00:00:00Z",
+        "detalhes": "Inventore esse mollitia eius vero libero amet ratione.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 105,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-06-15T00:00:00Z",
+        "detalhes": "Minus placeat voluptatem corporis provident.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 106,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-09-05T00:00:00Z",
+        "detalhes": "Cumque harum libero aspernatur veniam quae quidem.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 107,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-04T00:00:00Z",
+        "detalhes": "Consequatur eveniet maxime unde saepe consequuntur nobis.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 108,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-11-16T00:00:00Z",
+        "detalhes": "Natus magnam ex incidunt.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 109,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-11-13T00:00:00Z",
+        "detalhes": "Illum ea officiis error.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 110,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-01-04T00:00:00Z",
+        "detalhes": "Magnam numquam voluptates sed voluptates optio exercitationem.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 111,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-05-16T00:00:00Z",
+        "detalhes": "Omnis deserunt repellendus.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 112,
+        "tipo_interacao": "elogio",
+        "data": "2025-01-08T00:00:00Z",
+        "detalhes": "A enim accusamus voluptate repellendus alias.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 113,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-10-18T00:00:00Z",
+        "detalhes": "Magni impedit laboriosam voluptate natus ipsum officiis.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 114,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-06-04T00:00:00Z",
+        "detalhes": "Numquam incidunt officia vitae voluptates quidem nisi.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 115,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-24T00:00:00Z",
+        "detalhes": "Optio perferendis quae eligendi reiciendis voluptates fugiat vitae.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 116,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-06-20T00:00:00Z",
+        "detalhes": "Est eligendi modi est et.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 117,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-10-30T00:00:00Z",
+        "detalhes": "Nobis aut dolores illo soluta.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 118,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-01-09T00:00:00Z",
+        "detalhes": "Natus nostrum eligendi porro beatae fuga libero.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 119,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-06-13T00:00:00Z",
+        "detalhes": "Perferendis exercitationem voluptates inventore ex.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 120,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-01-28T00:00:00Z",
+        "detalhes": "Molestias eos maxime soluta.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 121,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-04-14T00:00:00Z",
+        "detalhes": "Aliquam tenetur culpa similique ut ut totam.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 122,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-24T00:00:00Z",
+        "detalhes": "Cum rerum incidunt repellat praesentium officia deserunt.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 123,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-28T00:00:00Z",
+        "detalhes": "Ducimus necessitatibus vero totam.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 124,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-10-22T00:00:00Z",
+        "detalhes": "Earum reiciendis perferendis voluptatem.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 125,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-04-21T00:00:00Z",
+        "detalhes": "Doloribus dolorum aperiam facere harum molestiae laudantium.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 126,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-05-15T00:00:00Z",
+        "detalhes": "Ipsam harum doloremque veritatis consequuntur.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 127,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-02T00:00:00Z",
+        "detalhes": "Fugit saepe quod ipsam eveniet porro ipsa.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 128,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-04-21T00:00:00Z",
+        "detalhes": "Atque ducimus iusto consequatur enim impedit.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 129,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-06-01T00:00:00Z",
+        "detalhes": "Autem totam cum fugiat fugit.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 130,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-17T00:00:00Z",
+        "detalhes": "Adipisci explicabo sit cupiditate consectetur repellat explicabo et.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 131,
+        "tipo_interacao": "elogio",
+        "data": "2024-12-19T00:00:00Z",
+        "detalhes": "Cupiditate sed velit magni inventore quia.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 132,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-04-17T00:00:00Z",
+        "detalhes": "Dicta debitis pariatur corrupti temporibus ea.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 133,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-07-13T00:00:00Z",
+        "detalhes": "Dignissimos quam perferendis aspernatur unde ex.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 134,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-06-28T00:00:00Z",
+        "detalhes": "Reprehenderit ea impedit.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 135,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-10-15T00:00:00Z",
+        "detalhes": "Reprehenderit neque eos inventore labore molestias.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 136,
+        "tipo_interacao": "elogio",
+        "data": "2024-04-28T00:00:00Z",
+        "detalhes": "Incidunt minima odio quos cumque.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 137,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-07-08T00:00:00Z",
+        "detalhes": "Temporibus ea ratione consectetur quis cupiditate iure.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 138,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-11-20T00:00:00Z",
+        "detalhes": "Eaque eius neque nam.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 139,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-07-09T00:00:00Z",
+        "detalhes": "Voluptatum dolor doloremque libero quas.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 140,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-07-11T00:00:00Z",
+        "detalhes": "Nobis fuga esse.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 141,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-27T00:00:00Z",
+        "detalhes": "Error aperiam iusto dolorum labore quisquam.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 142,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-06-30T00:00:00Z",
+        "detalhes": "Ipsam corrupti officiis itaque consectetur voluptatibus inventore.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 143,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-05-08T00:00:00Z",
+        "detalhes": "Provident provident facere ea rerum.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 144,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-02-11T00:00:00Z",
+        "detalhes": "Ut voluptatem illo sequi culpa.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 145,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-05T00:00:00Z",
+        "detalhes": "Eos ipsum sint aspernatur quibusdam aspernatur.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 146,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-11-29T00:00:00Z",
+        "detalhes": "Possimus assumenda illum sed aut nobis quasi.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 147,
+        "tipo_interacao": "elogio",
+        "data": "2024-11-08T00:00:00Z",
+        "detalhes": "Temporibus minima aspernatur fugit odio aliquid dolorum.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 148,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-02-02T00:00:00Z",
+        "detalhes": "Veniam mollitia exercitationem facere laudantium.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 149,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-06T00:00:00Z",
+        "detalhes": "Ipsum odio alias saepe culpa.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 150,
+        "tipo_interacao": "elogio",
+        "data": "2024-06-25T00:00:00Z",
+        "detalhes": "Praesentium laboriosam a facilis ipsam odit magni.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 151,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-04-05T00:00:00Z",
+        "detalhes": "Quisquam soluta consequuntur eum libero velit veniam.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 152,
+        "tipo_interacao": "elogio",
+        "data": "2024-08-28T00:00:00Z",
+        "detalhes": "Maxime temporibus voluptatibus dolore incidunt.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 153,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-29T00:00:00Z",
+        "detalhes": "Ex amet quam doloribus expedita aperiam accusantium.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 154,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-07-12T00:00:00Z",
+        "detalhes": "Debitis aliquid voluptatum.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 155,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-04-05T00:00:00Z",
+        "detalhes": "Quaerat debitis laboriosam suscipit nisi reiciendis.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 156,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-09-18T00:00:00Z",
+        "detalhes": "Temporibus dolore dignissimos.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 157,
+        "tipo_interacao": "elogio",
+        "data": "2024-04-15T00:00:00Z",
+        "detalhes": "Aliquam eveniet et aperiam vel optio.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 158,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-11-01T00:00:00Z",
+        "detalhes": "Recusandae sed sint laudantium dolor.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 159,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-08-06T00:00:00Z",
+        "detalhes": "Natus cum sint vel qui.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 160,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-29T00:00:00Z",
+        "detalhes": "Molestiae sint ducimus optio magni.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 161,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-04-06T00:00:00Z",
+        "detalhes": "Fugiat libero cupiditate illo minus.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 162,
+        "tipo_interacao": "elogio",
+        "data": "2024-08-01T00:00:00Z",
+        "detalhes": "Excepturi numquam nesciunt fugit maiores.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 163,
+        "tipo_interacao": "elogio",
+        "data": "2025-04-12T00:00:00Z",
+        "detalhes": "Autem quae magni sequi quas fugiat laborum.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 164,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-12-06T00:00:00Z",
+        "detalhes": "Odit quidem magnam placeat corporis esse ut.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 165,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-08-14T00:00:00Z",
+        "detalhes": "In tempore ut qui fugiat error ad veritatis.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 166,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-07-01T00:00:00Z",
+        "detalhes": "Deserunt sequi repudiandae ex voluptatum quos fugit.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 167,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-04T00:00:00Z",
+        "detalhes": "A necessitatibus tempora quia a pariatur dolorem.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 168,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-04-12T00:00:00Z",
+        "detalhes": "Quae quis recusandae maxime.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 169,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-01-04T00:00:00Z",
+        "detalhes": "Sint ratione numquam illum.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 170,
+        "tipo_interacao": "elogio",
+        "data": "2024-11-04T00:00:00Z",
+        "detalhes": "Odit molestiae quasi magnam sapiente.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 171,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-07T00:00:00Z",
+        "detalhes": "Sunt tenetur eaque doloremque quod quod.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 172,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-23T00:00:00Z",
+        "detalhes": "Velit sit exercitationem quos.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 173,
+        "tipo_interacao": "elogio",
+        "data": "2024-07-31T00:00:00Z",
+        "detalhes": "Quibusdam tenetur maxime quaerat optio explicabo maxime.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 174,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-01-31T00:00:00Z",
+        "detalhes": "Rem sint dignissimos beatae qui.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 175,
+        "tipo_interacao": "elogio",
+        "data": "2025-02-09T00:00:00Z",
+        "detalhes": "Quos enim doloribus ratione temporibus temporibus.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 176,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-05-25T00:00:00Z",
+        "detalhes": "Nam aspernatur quam quos atque ab quidem.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 177,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-07-22T00:00:00Z",
+        "detalhes": "Dolorem nesciunt ea voluptate sapiente architecto.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 178,
+        "tipo_interacao": "elogio",
+        "data": "2024-08-16T00:00:00Z",
+        "detalhes": "Fuga reprehenderit ea reiciendis tempore.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 179,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-06-11T00:00:00Z",
+        "detalhes": "Laboriosam excepturi cupiditate inventore.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 180,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-07-10T00:00:00Z",
+        "detalhes": "Autem voluptas debitis possimus consequuntur eos.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 181,
+        "tipo_interacao": "elogio",
+        "data": "2024-08-29T00:00:00Z",
+        "detalhes": "Suscipit distinctio ut animi rerum.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 182,
+        "tipo_interacao": "elogio",
+        "data": "2024-10-17T00:00:00Z",
+        "detalhes": "Consectetur error corporis nihil.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 183,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-10-21T00:00:00Z",
+        "detalhes": "Error aspernatur dolorum corrupti est maiores.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 184,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-04-09T00:00:00Z",
+        "detalhes": "Nesciunt voluptatum ratione iure maxime.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 185,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-05-10T00:00:00Z",
+        "detalhes": "Vel deleniti magni natus.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 186,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-27T00:00:00Z",
+        "detalhes": "Id aperiam molestias consectetur doloribus omnis non optio.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 187,
+        "tipo_interacao": "elogio",
+        "data": "2024-12-09T00:00:00Z",
+        "detalhes": "Nulla eaque quas explicabo enim velit.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 188,
+        "tipo_interacao": "elogio",
+        "data": "2024-06-24T00:00:00Z",
+        "detalhes": "Voluptatibus quasi ad debitis.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 189,
+        "tipo_interacao": "elogio",
+        "data": "2024-09-22T00:00:00Z",
+        "detalhes": "Voluptate dolorum eaque eaque.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 190,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-01-03T00:00:00Z",
+        "detalhes": "Consequatur debitis dolores quaerat ab amet architecto.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 191,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-10T00:00:00Z",
+        "detalhes": "Enim rem facilis molestias voluptatem a quaerat.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 192,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-06-26T00:00:00Z",
+        "detalhes": "Iusto officiis autem ab praesentium officia.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 193,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-08-10T00:00:00Z",
+        "detalhes": "Dolorum commodi qui quibusdam repellat.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 194,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-12T00:00:00Z",
+        "detalhes": "Quisquam dolores neque rem.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 195,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-10-05T00:00:00Z",
+        "detalhes": "Quis ipsa architecto beatae reprehenderit eum odit.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 196,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-05-04T00:00:00Z",
+        "detalhes": "Assumenda soluta quod quae cumque quia.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 197,
+        "tipo_interacao": "elogio",
+        "data": "2025-02-24T00:00:00Z",
+        "detalhes": "Eveniet ullam quasi nobis dicta.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 198,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-06T00:00:00Z",
+        "detalhes": "Laborum unde ut doloribus dicta saepe quis.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 199,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-03-04T00:00:00Z",
+        "detalhes": "Culpa sit quos aperiam.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 200,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-03-16T00:00:00Z",
+        "detalhes": "Distinctio optio sunt voluptas recusandae dicta.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 201,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-06-24T00:00:00Z",
+        "detalhes": "Rerum harum adipisci eligendi natus.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 202,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-07-12T00:00:00Z",
+        "detalhes": "Harum est voluptatem iste inventore.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 203,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-12-01T00:00:00Z",
+        "detalhes": "Tempore occaecati nemo quos unde.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 204,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-04-06T00:00:00Z",
+        "detalhes": "Ab porro ut temporibus voluptate facilis animi cum.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 205,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-05-23T00:00:00Z",
+        "detalhes": "Officiis distinctio aliquam recusandae labore voluptatibus.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 206,
+        "tipo_interacao": "elogio",
+        "data": "2024-06-18T00:00:00Z",
+        "detalhes": "Laudantium quos molestiae velit tenetur architecto recusandae.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 207,
+        "tipo_interacao": "elogio",
+        "data": "2024-10-02T00:00:00Z",
+        "detalhes": "Omnis repudiandae laboriosam nam minus blanditiis.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 208,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-05-12T00:00:00Z",
+        "detalhes": "Cumque libero possimus voluptate qui adipisci officiis.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 209,
+        "tipo_interacao": "elogio",
+        "data": "2024-10-04T00:00:00Z",
+        "detalhes": "Nam veniam enim natus quos.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 210,
+        "tipo_interacao": "elogio",
+        "data": "2025-01-29T00:00:00Z",
+        "detalhes": "Distinctio provident maiores blanditiis sequi.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 211,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-08-12T00:00:00Z",
+        "detalhes": "Ea blanditiis commodi ipsum commodi nisi.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 212,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-03-20T00:00:00Z",
+        "detalhes": "Rerum recusandae error officiis iste.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 213,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-05-04T00:00:00Z",
+        "detalhes": "Deserunt vero dolorem placeat omnis quis aperiam.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 214,
+        "tipo_interacao": "elogio",
+        "data": "2025-01-23T00:00:00Z",
+        "detalhes": "Corporis libero impedit repellat commodi harum pariatur.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 215,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-07T00:00:00Z",
+        "detalhes": "Provident architecto neque rem error nesciunt facilis iusto.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 216,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-06T00:00:00Z",
+        "detalhes": "Praesentium rerum placeat nobis blanditiis.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 217,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-03-24T00:00:00Z",
+        "detalhes": "Eligendi delectus odit adipisci vero magni incidunt.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 218,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-02-20T00:00:00Z",
+        "detalhes": "Minus earum nemo doloremque.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 219,
+        "tipo_interacao": "elogio",
+        "data": "2024-07-10T00:00:00Z",
+        "detalhes": "Velit ullam sint et.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 220,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-11-21T00:00:00Z",
+        "detalhes": "Corporis sapiente veritatis est vero voluptatibus recusandae.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 221,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-02-14T00:00:00Z",
+        "detalhes": "Saepe dolorem magni ipsa blanditiis sapiente dolores labore.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 222,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-22T00:00:00Z",
+        "detalhes": "Vel recusandae animi repellat fuga.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 223,
+        "tipo_interacao": "elogio",
+        "data": "2024-09-10T00:00:00Z",
+        "detalhes": "Corporis aperiam cum.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 224,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-04T00:00:00Z",
+        "detalhes": "Enim maxime eius libero.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 225,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-07-12T00:00:00Z",
+        "detalhes": "Quibusdam ea id.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 226,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-07-03T00:00:00Z",
+        "detalhes": "Voluptas qui quo officia necessitatibus laudantium.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 227,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-05T00:00:00Z",
+        "detalhes": "Accusantium nihil consectetur excepturi delectus assumenda.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 228,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-05-23T00:00:00Z",
+        "detalhes": "Aperiam natus inventore voluptas deserunt iure labore.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 229,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-08T00:00:00Z",
+        "detalhes": "Non deserunt officia.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 230,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-02-19T00:00:00Z",
+        "detalhes": "Minus delectus odio odit optio modi animi.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 231,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-05-14T00:00:00Z",
+        "detalhes": "Cumque natus ipsam totam veniam.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 232,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-16T00:00:00Z",
+        "detalhes": "Voluptatum provident quaerat tempore enim voluptatum.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 233,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-12-20T00:00:00Z",
+        "detalhes": "Fuga saepe numquam nobis.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 234,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-04-19T00:00:00Z",
+        "detalhes": "Maxime eos nisi soluta.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 235,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-12-26T00:00:00Z",
+        "detalhes": "Nostrum fugiat velit distinctio vero autem accusamus.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 236,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-05-31T00:00:00Z",
+        "detalhes": "Nostrum necessitatibus quibusdam quae perspiciatis nulla vero doloremque.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 237,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-02-10T00:00:00Z",
+        "detalhes": "Reiciendis tempora maxime non praesentium architecto at.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 238,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-04-27T00:00:00Z",
+        "detalhes": "Blanditiis distinctio modi voluptatibus dignissimos.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 239,
+        "tipo_interacao": "elogio",
+        "data": "2025-02-21T00:00:00Z",
+        "detalhes": "Velit recusandae quasi suscipit.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 240,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-18T00:00:00Z",
+        "detalhes": "Labore nostrum non.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 241,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-05-11T00:00:00Z",
+        "detalhes": "Tempora perferendis accusantium illum enim dolor quos.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 242,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-11-16T00:00:00Z",
+        "detalhes": "Quod eligendi molestias voluptas illum.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 243,
+        "tipo_interacao": "elogio",
+        "data": "2024-06-01T00:00:00Z",
+        "detalhes": "Perspiciatis maxime eum nobis iste soluta doloribus.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 244,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-06-11T00:00:00Z",
+        "detalhes": "Voluptas labore consequatur.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 245,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-04-28T00:00:00Z",
+        "detalhes": "Reiciendis in accusantium deserunt corrupti.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 246,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-03-07T00:00:00Z",
+        "detalhes": "Doloribus et ad asperiores itaque cupiditate.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 247,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-02-24T00:00:00Z",
+        "detalhes": "Voluptatibus porro odit fugiat placeat mollitia in quos.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 248,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-01-26T00:00:00Z",
+        "detalhes": "Delectus sunt amet.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 249,
+        "tipo_interacao": "elogio",
+        "data": "2024-06-13T00:00:00Z",
+        "detalhes": "Architecto aperiam ipsum.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 250,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-10-14T00:00:00Z",
+        "detalhes": "Nobis facilis saepe similique nobis.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 251,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-08-15T00:00:00Z",
+        "detalhes": "Libero ea quasi id sapiente optio.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 252,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-02-28T00:00:00Z",
+        "detalhes": "Illum cum quae consectetur vero.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 253,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-04-25T00:00:00Z",
+        "detalhes": "Voluptate sed eligendi excepturi voluptatibus provident.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 254,
+        "tipo_interacao": "elogio",
+        "data": "2025-02-16T00:00:00Z",
+        "detalhes": "Perferendis neque exercitationem maxime.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 255,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-03-20T00:00:00Z",
+        "detalhes": "Adipisci quo inventore doloremque.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 256,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-08-24T00:00:00Z",
+        "detalhes": "Occaecati omnis beatae voluptates dolor alias.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 257,
+        "tipo_interacao": "elogio",
+        "data": "2025-04-04T00:00:00Z",
+        "detalhes": "Assumenda dicta cum vel atque earum voluptates.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 258,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-22T00:00:00Z",
+        "detalhes": "Pariatur architecto eaque facilis id repellat.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 259,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-07T00:00:00Z",
+        "detalhes": "Saepe voluptate adipisci doloribus libero exercitationem magni similique.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 260,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-12-08T00:00:00Z",
+        "detalhes": "Veniam accusantium debitis omnis.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 261,
+        "tipo_interacao": "elogio",
+        "data": "2025-04-06T00:00:00Z",
+        "detalhes": "Repellendus ipsa aspernatur sapiente sapiente nostrum.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 262,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-01-29T00:00:00Z",
+        "detalhes": "Vitae consequatur neque quaerat optio.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 263,
+        "tipo_interacao": "elogio",
+        "data": "2024-10-16T00:00:00Z",
+        "detalhes": "Pariatur ut magni in quos deleniti.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 264,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-08-29T00:00:00Z",
+        "detalhes": "Animi non alias.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 265,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-12-24T00:00:00Z",
+        "detalhes": "Porro dolores quibusdam sit libero debitis.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 266,
+        "tipo_interacao": "elogio",
+        "data": "2024-08-29T00:00:00Z",
+        "detalhes": "Similique expedita nesciunt.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 267,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-05-23T00:00:00Z",
+        "detalhes": "Enim omnis itaque consequuntur nisi vel.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 268,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-31T00:00:00Z",
+        "detalhes": "Esse eveniet ipsum voluptas unde.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 269,
+        "tipo_interacao": "elogio",
+        "data": "2025-04-03T00:00:00Z",
+        "detalhes": "Pariatur temporibus itaque ut itaque.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 270,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-12-21T00:00:00Z",
+        "detalhes": "Recusandae eos aperiam ipsam.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 271,
+        "tipo_interacao": "elogio",
+        "data": "2025-01-01T00:00:00Z",
+        "detalhes": "Quam laborum adipisci praesentium.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 272,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-10-14T00:00:00Z",
+        "detalhes": "Perferendis exercitationem provident eum.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 273,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-06-25T00:00:00Z",
+        "detalhes": "Soluta in nulla debitis suscipit.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 274,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-08-15T00:00:00Z",
+        "detalhes": "Ducimus hic ullam velit voluptatem quasi.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 275,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-23T00:00:00Z",
+        "detalhes": "Et sint iusto suscipit.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 276,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-22T00:00:00Z",
+        "detalhes": "Saepe explicabo veniam quia distinctio.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 277,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-04-05T00:00:00Z",
+        "detalhes": "Nesciunt sit dolore.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 278,
+        "tipo_interacao": "elogio",
+        "data": "2025-02-13T00:00:00Z",
+        "detalhes": "Distinctio enim maxime omnis dicta inventore voluptate.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 279,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-11-01T00:00:00Z",
+        "detalhes": "Dolorem architecto corporis.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 280,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-24T00:00:00Z",
+        "detalhes": "Repellendus facere earum non eaque.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 281,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-01-21T00:00:00Z",
+        "detalhes": "Sunt officia aperiam.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 282,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-08-18T00:00:00Z",
+        "detalhes": "Quisquam laboriosam ab reiciendis nesciunt eius autem.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 283,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-01-01T00:00:00Z",
+        "detalhes": "Cum culpa minus minus nisi adipisci laboriosam fugit.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 284,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-04-19T00:00:00Z",
+        "detalhes": "Incidunt quasi ullam accusantium quos animi.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 285,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-06-28T00:00:00Z",
+        "detalhes": "A voluptas illum.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 286,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-07-02T00:00:00Z",
+        "detalhes": "Excepturi eum aliquam quos quod harum.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 287,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-12T00:00:00Z",
+        "detalhes": "Quos et aut atque ea ad magnam.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 288,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-05-28T00:00:00Z",
+        "detalhes": "Doloribus quasi amet necessitatibus assumenda laudantium qui ea.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 289,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-05-27T00:00:00Z",
+        "detalhes": "Tenetur voluptatem et rem rem dolorum reprehenderit.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 290,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-07-26T00:00:00Z",
+        "detalhes": "Officia ab iure soluta alias esse ipsa reprehenderit.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 291,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-04-26T00:00:00Z",
+        "detalhes": "Asperiores nobis aut error.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 292,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-03-04T00:00:00Z",
+        "detalhes": "Perferendis commodi ipsam a fuga praesentium.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 293,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-07-11T00:00:00Z",
+        "detalhes": "Odio consequatur sint assumenda expedita aliquam ad.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 294,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-18T00:00:00Z",
+        "detalhes": "Assumenda atque officiis.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 295,
+        "tipo_interacao": "elogio",
+        "data": "2024-06-08T00:00:00Z",
+        "detalhes": "Iste corrupti facilis qui rem quam.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 296,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-24T00:00:00Z",
+        "detalhes": "Numquam voluptates eaque dolorem quae expedita.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 297,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-06-24T00:00:00Z",
+        "detalhes": "Sequi ipsa atque sit.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 298,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-07-05T00:00:00Z",
+        "detalhes": "Cumque quae eius possimus labore exercitationem.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 299,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-05-26T00:00:00Z",
+        "detalhes": "Magni odio sapiente sequi at id.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 300,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-16T00:00:00Z",
+        "detalhes": "Aliquam laudantium aliquam amet ad.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 301,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-11-15T00:00:00Z",
+        "detalhes": "Debitis reprehenderit quia cum earum deserunt voluptates.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 302,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-12-03T00:00:00Z",
+        "detalhes": "Modi tempore quo natus a id iure.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 303,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-03-21T00:00:00Z",
+        "detalhes": "Odio quam magni.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 304,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-19T00:00:00Z",
+        "detalhes": "Eum eligendi voluptate rerum ipsam.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 305,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-10-19T00:00:00Z",
+        "detalhes": "Amet beatae blanditiis dolore.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 306,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-07-10T00:00:00Z",
+        "detalhes": "Hic corrupti laborum vero voluptatum.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 307,
+        "tipo_interacao": "elogio",
+        "data": "2025-02-10T00:00:00Z",
+        "detalhes": "Modi odit ut dolorem non tempora.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 308,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-03T00:00:00Z",
+        "detalhes": "Repellat saepe facere ducimus porro quia veritatis.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 309,
+        "tipo_interacao": "elogio",
+        "data": "2025-01-19T00:00:00Z",
+        "detalhes": "Voluptatum quia incidunt totam.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 310,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-05T00:00:00Z",
+        "detalhes": "Quos perferendis explicabo.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 311,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-11-07T00:00:00Z",
+        "detalhes": "Nesciunt sapiente eligendi hic.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 312,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-07-13T00:00:00Z",
+        "detalhes": "Laboriosam itaque illo.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 313,
+        "tipo_interacao": "elogio",
+        "data": "2025-04-11T00:00:00Z",
+        "detalhes": "Voluptas omnis dolore ad.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 314,
+        "tipo_interacao": "elogio",
+        "data": "2024-07-18T00:00:00Z",
+        "detalhes": "Quisquam autem modi suscipit beatae incidunt nam.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 315,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-07-17T00:00:00Z",
+        "detalhes": "Maiores unde saepe quam repellat.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 316,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-05-26T00:00:00Z",
+        "detalhes": "Id animi expedita magni.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 317,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-01-04T00:00:00Z",
+        "detalhes": "Quasi magnam dignissimos fuga id.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 318,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-10-27T00:00:00Z",
+        "detalhes": "Cum est dolor totam.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 319,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-05-08T00:00:00Z",
+        "detalhes": "Molestias porro similique minus beatae officiis architecto ad.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 320,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-22T00:00:00Z",
+        "detalhes": "Repudiandae laudantium magnam quae.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 321,
+        "tipo_interacao": "elogio",
+        "data": "2024-04-16T00:00:00Z",
+        "detalhes": "Sequi itaque modi neque expedita error.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 322,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-11-27T00:00:00Z",
+        "detalhes": "Deserunt at repellendus ab quo accusamus odit.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 323,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-10-06T00:00:00Z",
+        "detalhes": "Cumque a ipsum repellat cupiditate at sit.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 324,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-04-28T00:00:00Z",
+        "detalhes": "Quam harum ad laudantium neque voluptas et.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 325,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-18T00:00:00Z",
+        "detalhes": "Nisi reiciendis eum blanditiis dolorem tempore.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 326,
+        "tipo_interacao": "elogio",
+        "data": "2024-11-20T00:00:00Z",
+        "detalhes": "Ducimus vel aliquid fugiat.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 327,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-01-28T00:00:00Z",
+        "detalhes": "Dolores nesciunt hic nemo consequatur vitae quia.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 328,
+        "tipo_interacao": "elogio",
+        "data": "2025-01-22T00:00:00Z",
+        "detalhes": "Cupiditate culpa corrupti adipisci perferendis.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 329,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-12-13T00:00:00Z",
+        "detalhes": "Vero aspernatur accusamus.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 330,
+        "tipo_interacao": "elogio",
+        "data": "2024-09-27T00:00:00Z",
+        "detalhes": "Molestias facere dolorem iure cupiditate nihil labore.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 331,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-12-28T00:00:00Z",
+        "detalhes": "Ratione ea excepturi autem minima sequi.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 332,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-05T00:00:00Z",
+        "detalhes": "Ratione quos illum tempora fugit.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 333,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-11T00:00:00Z",
+        "detalhes": "Ad itaque quis a officiis.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 334,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-12-14T00:00:00Z",
+        "detalhes": "Itaque architecto veniam nesciunt.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 335,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-04-15T00:00:00Z",
+        "detalhes": "Ullam quas dicta molestiae.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 336,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-12-30T00:00:00Z",
+        "detalhes": "Placeat excepturi commodi amet.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 337,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-01-31T00:00:00Z",
+        "detalhes": "Sint soluta laborum assumenda commodi quae doloremque at.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 338,
+        "tipo_interacao": "elogio",
+        "data": "2024-08-02T00:00:00Z",
+        "detalhes": "Eveniet provident aperiam.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 339,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-06-24T00:00:00Z",
+        "detalhes": "Exercitationem totam sint voluptatibus possimus.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 340,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-06-02T00:00:00Z",
+        "detalhes": "Nostrum dolorum aut sequi maxime eius necessitatibus unde.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 341,
+        "tipo_interacao": "elogio",
+        "data": "2024-10-16T00:00:00Z",
+        "detalhes": "Sunt ullam quis expedita nam.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 342,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-13T00:00:00Z",
+        "detalhes": "Tempora facilis laudantium accusamus vel tempora.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 343,
+        "tipo_interacao": "elogio",
+        "data": "2024-11-18T00:00:00Z",
+        "detalhes": "Alias laboriosam doloremque eos adipisci accusamus reprehenderit.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 344,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-02-20T00:00:00Z",
+        "detalhes": "Sunt illum maiores accusamus expedita.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 345,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-03-24T00:00:00Z",
+        "detalhes": "Impedit nostrum reiciendis reiciendis libero.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 346,
+        "tipo_interacao": "elogio",
+        "data": "2024-04-22T00:00:00Z",
+        "detalhes": "Ducimus ipsam quam eos veniam laboriosam.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 347,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-06-20T00:00:00Z",
+        "detalhes": "Minima aspernatur dolorem esse libero delectus.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 348,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-14T00:00:00Z",
+        "detalhes": "Quod fugit modi.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 349,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-07-21T00:00:00Z",
+        "detalhes": "Sequi ea dignissimos incidunt sapiente.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 350,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-09-04T00:00:00Z",
+        "detalhes": "Doloribus quidem iure ut tempore.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 351,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-11-12T00:00:00Z",
+        "detalhes": "Quisquam eius repellendus sint quidem dolore.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 352,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-05-29T00:00:00Z",
+        "detalhes": "Odit maxime assumenda necessitatibus quas.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 353,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-02-26T00:00:00Z",
+        "detalhes": "Numquam vero aliquam tempora omnis vel.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 354,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-02-11T00:00:00Z",
+        "detalhes": "Sapiente placeat velit officiis delectus illo sit.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 355,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-05T00:00:00Z",
+        "detalhes": "Blanditiis in deleniti aliquam dignissimos repellat.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 356,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-08-17T00:00:00Z",
+        "detalhes": "Animi laboriosam velit doloribus nam deserunt repellat neque.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 357,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-06-10T00:00:00Z",
+        "detalhes": "Quae laborum facere omnis aut vitae at at.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 358,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-31T00:00:00Z",
+        "detalhes": "Quis ipsum quibusdam distinctio animi.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 359,
+        "tipo_interacao": "elogio",
+        "data": "2024-04-27T00:00:00Z",
+        "detalhes": "Quas dignissimos dolorum accusamus ex.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 360,
+        "tipo_interacao": "elogio",
+        "data": "2024-09-21T00:00:00Z",
+        "detalhes": "Perspiciatis laborum beatae.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 361,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-01-10T00:00:00Z",
+        "detalhes": "Perferendis facere minus porro quisquam.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 362,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-04-20T00:00:00Z",
+        "detalhes": "Suscipit praesentium veniam cupiditate iusto blanditiis.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 363,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-11-05T00:00:00Z",
+        "detalhes": "Alias tempora blanditiis modi ipsam accusamus tempora.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 364,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-13T00:00:00Z",
+        "detalhes": "Animi illum nam suscipit eos vero.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 365,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-12-23T00:00:00Z",
+        "detalhes": "Cumque a veritatis porro.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 366,
+        "tipo_interacao": "elogio",
+        "data": "2025-02-15T00:00:00Z",
+        "detalhes": "Vel ipsa nesciunt consequatur tempora a molestiae facere.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 367,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-10-22T00:00:00Z",
+        "detalhes": "Facilis atque sapiente doloribus.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 368,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-06-30T00:00:00Z",
+        "detalhes": "Quibusdam libero natus.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 369,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-02-06T00:00:00Z",
+        "detalhes": "Deserunt reprehenderit tempora accusantium perspiciatis iste accusamus.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 370,
+        "tipo_interacao": "elogio",
+        "data": "2024-06-19T00:00:00Z",
+        "detalhes": "Ducimus provident nobis eum minima.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 371,
+        "tipo_interacao": "elogio",
+        "data": "2024-04-16T00:00:00Z",
+        "detalhes": "Quam voluptas fugiat reprehenderit vero.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 372,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-04-27T00:00:00Z",
+        "detalhes": "Eaque nemo reprehenderit excepturi dolore placeat aspernatur.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 373,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-09T00:00:00Z",
+        "detalhes": "Odit quo fuga quasi tempora repellat.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 374,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-10-15T00:00:00Z",
+        "detalhes": "Consectetur excepturi eligendi et earum asperiores velit.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 375,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-01-30T00:00:00Z",
+        "detalhes": "Dolorum dolorum esse quia aperiam dolore ducimus.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 376,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-04-28T00:00:00Z",
+        "detalhes": "Totam tenetur cum inventore.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 377,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-08-08T00:00:00Z",
+        "detalhes": "Libero nostrum molestiae nesciunt.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 378,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-12-21T00:00:00Z",
+        "detalhes": "Ut dicta quam ratione qui.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 379,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-24T00:00:00Z",
+        "detalhes": "Quibusdam consequuntur minima architecto temporibus labore.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 380,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-29T00:00:00Z",
+        "detalhes": "Rerum ab vitae quo aliquam deleniti error.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 381,
+        "tipo_interacao": "elogio",
+        "data": "2024-08-06T00:00:00Z",
+        "detalhes": "Similique nisi in ipsa ut inventore.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 382,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-10-04T00:00:00Z",
+        "detalhes": "Iusto excepturi natus omnis harum praesentium.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 383,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-11-29T00:00:00Z",
+        "detalhes": "Soluta atque consequuntur et.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 384,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-02-13T00:00:00Z",
+        "detalhes": "Eveniet fuga quaerat voluptatibus porro perferendis.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 385,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-07-01T00:00:00Z",
+        "detalhes": "Ipsam veniam quidem nisi.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 386,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-02-18T00:00:00Z",
+        "detalhes": "Vel dolorum expedita perspiciatis earum corrupti.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 387,
+        "tipo_interacao": "elogio",
+        "data": "2024-07-19T00:00:00Z",
+        "detalhes": "Quis a harum.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 388,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-03-30T00:00:00Z",
+        "detalhes": "Accusantium possimus praesentium.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 389,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-04-12T00:00:00Z",
+        "detalhes": "Necessitatibus animi temporibus exercitationem exercitationem voluptate voluptatum.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 390,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-11-24T00:00:00Z",
+        "detalhes": "Facere sapiente odio iure.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 391,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-02-23T00:00:00Z",
+        "detalhes": "Veniam minima hic.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 392,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-04-19T00:00:00Z",
+        "detalhes": "Itaque molestias expedita voluptatum assumenda sit.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 393,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-08-14T00:00:00Z",
+        "detalhes": "Laborum inventore aliquam temporibus veritatis occaecati.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 394,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-01-24T00:00:00Z",
+        "detalhes": "Illo esse nesciunt vero.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 395,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-27T00:00:00Z",
+        "detalhes": "Repellendus id voluptate.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 396,
+        "tipo_interacao": "elogio",
+        "data": "2024-07-12T00:00:00Z",
+        "detalhes": "Aspernatur laborum pariatur delectus qui voluptatem quas sunt.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 397,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-04-24T00:00:00Z",
+        "detalhes": "Laboriosam magnam veniam accusantium.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 398,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-01-08T00:00:00Z",
+        "detalhes": "Itaque perspiciatis consectetur iusto nostrum.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 399,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-21T00:00:00Z",
+        "detalhes": "Dolorum voluptatibus tempora fuga doloremque ipsa.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 400,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-02-02T00:00:00Z",
+        "detalhes": "Reiciendis omnis laboriosam sit animi architecto.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 401,
+        "tipo_interacao": "elogio",
+        "data": "2024-11-16T00:00:00Z",
+        "detalhes": "Pariatur reprehenderit consequuntur earum.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 402,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-02-12T00:00:00Z",
+        "detalhes": "Maiores doloremque ea voluptates esse aliquam praesentium molestias.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 403,
+        "tipo_interacao": "elogio",
+        "data": "2024-08-22T00:00:00Z",
+        "detalhes": "Inventore eius voluptatibus facere.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 404,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-05-24T00:00:00Z",
+        "detalhes": "Eos aperiam mollitia aut laudantium dolores excepturi.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 405,
+        "tipo_interacao": "elogio",
+        "data": "2024-08-23T00:00:00Z",
+        "detalhes": "Dicta quia cum recusandae labore saepe.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 406,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-01-12T00:00:00Z",
+        "detalhes": "Vero quaerat magnam maxime.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 407,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-29T00:00:00Z",
+        "detalhes": "Iusto natus quia.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 408,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-05-04T00:00:00Z",
+        "detalhes": "Praesentium tempora voluptate dolorum provident quae possimus minus.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 409,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-06-22T00:00:00Z",
+        "detalhes": "Dolorum nam quae molestiae officiis provident adipisci reiciendis.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 410,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-15T00:00:00Z",
+        "detalhes": "Quam qui velit placeat.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 411,
+        "tipo_interacao": "elogio",
+        "data": "2024-08-30T00:00:00Z",
+        "detalhes": "Ex dolorum voluptates voluptas quae quae.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 412,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-16T00:00:00Z",
+        "detalhes": "Iusto corrupti ratione officiis quaerat adipisci hic.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 413,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-28T00:00:00Z",
+        "detalhes": "Repellat non perferendis adipisci corporis beatae reiciendis.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 414,
+        "tipo_interacao": "elogio",
+        "data": "2024-12-13T00:00:00Z",
+        "detalhes": "Harum laboriosam sed.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 415,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-22T00:00:00Z",
+        "detalhes": "Sed tempore cum veritatis.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 416,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-07-13T00:00:00Z",
+        "detalhes": "Animi qui tempora consequuntur nesciunt impedit.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 417,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-23T00:00:00Z",
+        "detalhes": "Doloribus dolor fugiat quas architecto laborum sit dolores.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 418,
+        "tipo_interacao": "elogio",
+        "data": "2024-12-19T00:00:00Z",
+        "detalhes": "Nostrum facilis quasi.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 419,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-05-22T00:00:00Z",
+        "detalhes": "Quas aspernatur voluptatum harum inventore nisi.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 420,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-09T00:00:00Z",
+        "detalhes": "Voluptates est quo ab blanditiis dolore rem.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 421,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-04T00:00:00Z",
+        "detalhes": "Alias excepturi neque ab quisquam nostrum provident iusto.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 422,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-02-19T00:00:00Z",
+        "detalhes": "Perspiciatis ut quas.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 423,
+        "tipo_interacao": "elogio",
+        "data": "2024-12-02T00:00:00Z",
+        "detalhes": "Placeat itaque autem a dignissimos ex deleniti.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 424,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-04-08T00:00:00Z",
+        "detalhes": "Eaque perferendis accusamus possimus voluptates aut.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 425,
+        "tipo_interacao": "elogio",
+        "data": "2024-09-10T00:00:00Z",
+        "detalhes": "Aperiam beatae quidem aliquam.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 426,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-25T00:00:00Z",
+        "detalhes": "Incidunt ut voluptatum impedit asperiores cumque.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 427,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-10-18T00:00:00Z",
+        "detalhes": "Aut nam eveniet deleniti voluptatem dolorem voluptatibus.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 428,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-11-13T00:00:00Z",
+        "detalhes": "Dignissimos sequi eligendi.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 429,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-02-24T00:00:00Z",
+        "detalhes": "Laudantium eos iste neque.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 430,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-19T00:00:00Z",
+        "detalhes": "Incidunt explicabo perspiciatis cupiditate reiciendis laboriosam ea nihil.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 431,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-17T00:00:00Z",
+        "detalhes": "Debitis ea pariatur sapiente.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 432,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-10-16T00:00:00Z",
+        "detalhes": "A suscipit eveniet repellendus.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 433,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-08-23T00:00:00Z",
+        "detalhes": "Est est explicabo occaecati libero nam cum soluta.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 434,
+        "tipo_interacao": "elogio",
+        "data": "2024-10-15T00:00:00Z",
+        "detalhes": "Voluptatem voluptates recusandae quidem eveniet voluptatibus.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 435,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-03-25T00:00:00Z",
+        "detalhes": "Accusantium aut sint eius placeat incidunt ipsa.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 436,
+        "tipo_interacao": "elogio",
+        "data": "2025-03-29T00:00:00Z",
+        "detalhes": "Illum culpa rerum.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 437,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-10-16T00:00:00Z",
+        "detalhes": "Vitae blanditiis neque.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 438,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-12-14T00:00:00Z",
+        "detalhes": "Voluptatibus omnis saepe minus eligendi dolorem quibusdam.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 439,
+        "tipo_interacao": "elogio",
+        "data": "2025-02-14T00:00:00Z",
+        "detalhes": "Eum reiciendis officia illo animi.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 440,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-24T00:00:00Z",
+        "detalhes": "Laborum cumque repellendus voluptatibus.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 441,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-04-26T00:00:00Z",
+        "detalhes": "Magnam enim perferendis quibusdam quidem quasi nesciunt.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 442,
+        "tipo_interacao": "elogio",
+        "data": "2024-12-03T00:00:00Z",
+        "detalhes": "Aperiam cum ducimus distinctio culpa tempora.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 443,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-04-28T00:00:00Z",
+        "detalhes": "Illum dignissimos aspernatur ad dolorum iste.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 444,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-03T00:00:00Z",
+        "detalhes": "Quae repudiandae consequatur dolores totam iure.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 445,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-17T00:00:00Z",
+        "detalhes": "Perspiciatis veritatis sint blanditiis voluptatibus sapiente nobis.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 446,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-10-11T00:00:00Z",
+        "detalhes": "Quibusdam expedita sequi quod porro.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 447,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-11-24T00:00:00Z",
+        "detalhes": "Iusto assumenda distinctio ipsam.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 448,
+        "tipo_interacao": "elogio",
+        "data": "2024-08-31T00:00:00Z",
+        "detalhes": "Cumque adipisci odio.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 449,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-11T00:00:00Z",
+        "detalhes": "Mollitia doloremque nisi eius cum.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 450,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-03-27T00:00:00Z",
+        "detalhes": "Saepe pariatur autem.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 451,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-12T00:00:00Z",
+        "detalhes": "Iure vitae dolore amet architecto ducimus reprehenderit voluptas.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 452,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-11-20T00:00:00Z",
+        "detalhes": "Maiores blanditiis nesciunt quia.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 453,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-02-08T00:00:00Z",
+        "detalhes": "Eligendi numquam maxime tenetur totam eum laudantium.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 454,
+        "tipo_interacao": "elogio",
+        "data": "2024-04-22T00:00:00Z",
+        "detalhes": "Eos natus totam culpa tempora quibusdam esse.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 455,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-10-27T00:00:00Z",
+        "detalhes": "Assumenda earum quasi ratione autem incidunt.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 456,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-04-28T00:00:00Z",
+        "detalhes": "Veniam possimus quae neque blanditiis error consectetur labore.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 457,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-04-30T00:00:00Z",
+        "detalhes": "Iure illum iste incidunt et nesciunt ad.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 458,
+        "tipo_interacao": "elogio",
+        "data": "2024-09-11T00:00:00Z",
+        "detalhes": "Quibusdam ut vel totam beatae quibusdam.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 459,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-01-04T00:00:00Z",
+        "detalhes": "Harum optio necessitatibus recusandae perferendis.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 460,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-27T00:00:00Z",
+        "detalhes": "Nobis eligendi ab doloribus.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 461,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-06-27T00:00:00Z",
+        "detalhes": "Nostrum natus tenetur dolorem dicta optio aut repudiandae.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 462,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-12-28T00:00:00Z",
+        "detalhes": "Nihil at laudantium iste consectetur enim voluptates.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 463,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-12-07T00:00:00Z",
+        "detalhes": "Eaque porro sunt corrupti.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 464,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-03-25T00:00:00Z",
+        "detalhes": "Suscipit esse cum placeat.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 465,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-18T00:00:00Z",
+        "detalhes": "Adipisci soluta ad facere.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 466,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-05-29T00:00:00Z",
+        "detalhes": "Magnam deleniti quod.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 467,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-11-18T00:00:00Z",
+        "detalhes": "Aliquam sunt quisquam officia atque laboriosam.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 468,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-05-04T00:00:00Z",
+        "detalhes": "Incidunt dolorem laborum sed.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 469,
+        "tipo_interacao": "elogio",
+        "data": "2024-09-22T00:00:00Z",
+        "detalhes": "Eveniet atque repellendus pariatur.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 470,
+        "tipo_interacao": "elogio",
+        "data": "2025-02-22T00:00:00Z",
+        "detalhes": "Sapiente nulla provident dignissimos nesciunt voluptatum sit.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 471,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-10-27T00:00:00Z",
+        "detalhes": "Tenetur tenetur quam sint magni.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 472,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-07-15T00:00:00Z",
+        "detalhes": "Sit accusamus tempore ratione nisi.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 473,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-03-29T00:00:00Z",
+        "detalhes": "Ea consequatur nemo error at.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 474,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-09-20T00:00:00Z",
+        "detalhes": "Quos optio et voluptatem similique.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 475,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-11-29T00:00:00Z",
+        "detalhes": "Facere officia sed quam labore ut repellat.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 476,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-01-25T00:00:00Z",
+        "detalhes": "Itaque sed saepe iure excepturi fuga.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 477,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-10-05T00:00:00Z",
+        "detalhes": "Adipisci culpa aliquid veritatis necessitatibus animi quaerat.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 478,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-09-24T00:00:00Z",
+        "detalhes": "Beatae dolor temporibus odio aliquam voluptatem.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 479,
+        "tipo_interacao": "elogio",
+        "data": "2024-09-23T00:00:00Z",
+        "detalhes": "Atque dignissimos nulla id.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 480,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-06-09T00:00:00Z",
+        "detalhes": "Vel hic nobis reprehenderit.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 481,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-03-19T00:00:00Z",
+        "detalhes": "Fugiat sunt enim eius itaque dolorum.",
+        "canal": "chat",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 482,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-01-13T00:00:00Z",
+        "detalhes": "Adipisci enim neque perferendis minus libero quaerat vero.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 483,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-08T00:00:00Z",
+        "detalhes": "Debitis voluptatibus provident voluptate aliquam.",
+        "canal": "telefone",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 484,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2025-01-06T00:00:00Z",
+        "detalhes": "Iusto labore sunt quasi tempore unde velit.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 485,
+        "tipo_interacao": "elogio",
+        "data": "2024-05-29T00:00:00Z",
+        "detalhes": "Voluptatibus voluptas perferendis sed delectus nesciunt dicta.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 486,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-10-25T00:00:00Z",
+        "detalhes": "Vel unde sit reprehenderit.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 487,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-02-04T00:00:00Z",
+        "detalhes": "Doloribus amet magni beatae.",
+        "canal": "chat",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 488,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-12-21T00:00:00Z",
+        "detalhes": "Fugiat quae aspernatur enim nobis cumque voluptatum.",
+        "canal": "email",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 489,
+        "tipo_interacao": "sugest\u00e3o",
+        "data": "2024-08-01T00:00:00Z",
+        "detalhes": "Ullam sint cum sed repellendus.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 490,
+        "tipo_interacao": "elogio",
+        "data": "2025-01-02T00:00:00Z",
+        "detalhes": "Quod doloribus rerum molestias voluptates.",
+        "canal": "telefone",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 491,
+        "tipo_interacao": "d\u00favida",
+        "data": "2025-02-02T00:00:00Z",
+        "detalhes": "Minima in fugiat facilis modi.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 492,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-11-30T00:00:00Z",
+        "detalhes": "Asperiores dolorum ipsum numquam iste numquam illum nesciunt.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 493,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-04-19T00:00:00Z",
+        "detalhes": "Mollitia voluptatum delectus nam aut.",
+        "canal": "email",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 494,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-08-27T00:00:00Z",
+        "detalhes": "Ab blanditiis inventore accusamus non occaecati cumque.",
+        "canal": "telefone",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 495,
+        "tipo_interacao": "elogio",
+        "data": "2024-09-25T00:00:00Z",
+        "detalhes": "Exercitationem corrupti impedit accusamus consequatur.",
+        "canal": "redes sociais",
+        "sentimento": "positivo"
+    },
+    {
+        "id_cliente": 496,
+        "tipo_interacao": "d\u00favida",
+        "data": "2024-05-16T00:00:00Z",
+        "detalhes": "Expedita praesentium error occaecati.",
+        "canal": "email",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 497,
+        "tipo_interacao": "elogio",
+        "data": "2025-02-26T00:00:00Z",
+        "detalhes": "Sapiente voluptatum repudiandae aperiam.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 498,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-05-19T00:00:00Z",
+        "detalhes": "Voluptatum occaecati minus molestias sequi corrupti rerum commodi.",
+        "canal": "redes sociais",
+        "sentimento": "negativo"
+    },
+    {
+        "id_cliente": 499,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2025-01-13T00:00:00Z",
+        "detalhes": "Itaque labore doloribus tempore ipsa.",
+        "canal": "chat",
+        "sentimento": "neutro"
+    },
+    {
+        "id_cliente": 500,
+        "tipo_interacao": "reclama\u00e7\u00e3o",
+        "data": "2024-08-04T00:00:00Z",
+        "detalhes": "Accusamus eveniet aut ea dignissimos reprehenderit.",
+        "canal": "redes sociais",
+        "sentimento": "neutro"
+    }
+]
