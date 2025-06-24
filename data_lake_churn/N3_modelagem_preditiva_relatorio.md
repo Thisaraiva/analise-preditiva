@@ -280,7 +280,7 @@ Para executar o pipeline completo e reproduzir os resultados:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/Thisaraiva/analise-preditiva.git
     cd analise-preditiva
     ```
 2.  **Crie e Ative o Ambiente Virtual (se ainda não fez):**
