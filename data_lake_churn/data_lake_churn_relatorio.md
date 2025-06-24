@@ -9,7 +9,7 @@ Conforme definido na Tarefa N1, o ambiente escolhido para o armazenamento de dad
 
 A estrutura de pastas criada é a seguinte:
 
-```mermaid
+```
 data_lake_churn/
 ├── processed/
 ├── raw/
