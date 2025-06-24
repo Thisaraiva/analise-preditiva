@@ -69,8 +69,8 @@ if __name__ == "__main__":
     lista_interacoes = gerar_dados_interacoes(df_clientes)
 
     # Salvar os dados gerados (simulando o armazenamento bruto)
-    base_path = '.'  # Diretório corrente (data_lake_churn)
-    raw_data_path = os.path.join(base_path, 'raw')
+    base_dir = os.path.dirname(os.path.abspath(__file__)) # Diretório corrente (data_lake_churn)
+    raw_data_path = os.path.join(base_dir, 'raw')    
     os.makedirs(raw_data_path, exist_ok=True)
 
     df_clientes.to_csv(os.path.join(raw_data_path, 'clientes_bruto.csv'), index=False)

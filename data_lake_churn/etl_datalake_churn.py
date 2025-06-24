@@ -53,9 +53,9 @@ def load_interacoes(data, output_path):
     print(f"Dados de interacoes tratados e carregados em: {os.path.join(output_path, 'interacoes_tratado.json')}")
 
 if __name__ == "__main__":
-    base_path = '.'  # Diretório corrente (data_lake_churn)
-    raw_data_path = os.path.join(base_path, 'raw')
-    processed_data_path = os.path.join(base_path, 'processed')
+    base_dir = os.path.dirname(os.path.abspath(__file__)) # Diretório corrente de data_lake_churn
+    raw_data_path = os.path.join(base_dir, 'raw')
+    processed_data_path = os.path.join(base_dir, 'processed')
 
     os.makedirs(raw_data_path, exist_ok=True)
     os.makedirs(processed_data_path, exist_ok=True)
